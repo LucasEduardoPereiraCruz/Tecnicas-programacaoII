@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Tecnicas-programacaoII\\tecnicas\\Orienta\u00E7\u00E3o \u00E0 objeto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CFE94ACF-3DAD-4D3D-890D-847B49E1017F}|Composi\u00E7\u00E3o\\Composi\u00E7\u00E3o.csproj|c:\\tecnicas-programacaoii\\tecnicas\\orienta\u00E7\u00E3o \u00E0 objeto\\composi\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE94ACF-3DAD-4D3D-890D-847B49E1017F}|Composi\u00E7\u00E3o\\Composi\u00E7\u00E3o.csproj|solutionrelative:composi\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE94ACF-3DAD-4D3D-890D-847B49E1017F}|Composi\u00E7\u00E3o\\Composi\u00E7\u00E3o.csproj|c:\\tecnicas-programacaoii\\tecnicas\\orienta\u00E7\u00E3o \u00E0 objeto\\composi\u00E7\u00E3o\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE94ACF-3DAD-4D3D-890D-847B49E1017F}|Composi\u00E7\u00E3o\\Composi\u00E7\u00E3o.csproj|solutionrelative:composi\u00E7\u00E3o\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C47551D-1BF7-4EE5-84B1-B97DBC418FEA}|Associa\u00E7\u00E3o\\Associa\u00E7\u00E3o.csproj|c:\\tecnicas-programacaoii\\tecnicas\\orienta\u00E7\u00E3o \u00E0 objeto\\associa\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C47551D-1BF7-4EE5-84B1-B97DBC418FEA}|Associa\u00E7\u00E3o\\Associa\u00E7\u00E3o.csproj|solutionrelative:associa\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F14E9C5E-3DC5-410F-B795-AAEC2A7CAB75}|Heranca\\Heranca.csproj|c:\\tecnicas-programacaoii\\tecnicas\\orienta\u00E7\u00E3o \u00E0 objeto\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F14E9C5E-3DC5-410F-B795-AAEC2A7CAB75}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D03DE01-B47A-4408-A2E0-BD0CF726F149}|Orienta\u00E7\u00E3o \u00E0 objeto\\Orienta\u00E7\u00E3o \u00E0 objeto.csproj|c:\\tecnicas-programacaoii\\tecnicas\\orienta\u00E7\u00E3o \u00E0 objeto\\orienta\u00E7\u00E3o \u00E0 objeto\\produto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D03DE01-B47A-4408-A2E0-BD0CF726F149}|Orienta\u00E7\u00E3o \u00E0 objeto\\Orienta\u00E7\u00E3o \u00E0 objeto.csproj|solutionrelative:orienta\u00E7\u00E3o \u00E0 objeto\\produto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8D03DE01-B47A-4408-A2E0-BD0CF726F149}|Orienta\u00E7\u00E3o \u00E0 objeto\\Orienta\u00E7\u00E3o \u00E0 objeto.csproj|c:\\tecnicas-programacaoii\\tecnicas\\orienta\u00E7\u00E3o \u00E0 objeto\\orienta\u00E7\u00E3o \u00E0 objeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D03DE01-B47A-4408-A2E0-BD0CF726F149}|Orienta\u00E7\u00E3o \u00E0 objeto\\Orienta\u00E7\u00E3o \u00E0 objeto.csproj|solutionrelative:orienta\u00E7\u00E3o \u00E0 objeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D03DE01-B47A-4408-A2E0-BD0CF726F149}|Orienta\u00E7\u00E3o \u00E0 objeto\\Orienta\u00E7\u00E3o \u00E0 objeto.csproj|c:\\tecnicas-programacaoii\\tecnicas\\orienta\u00E7\u00E3o \u00E0 objeto\\orienta\u00E7\u00E3o \u00E0 objeto\\produto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D03DE01-B47A-4408-A2E0-BD0CF726F149}|Orienta\u00E7\u00E3o \u00E0 objeto\\Orienta\u00E7\u00E3o \u00E0 objeto.csproj|solutionrelative:orienta\u00E7\u00E3o \u00E0 objeto\\produto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +34,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\Orienta\u00E7\u00E3o \u00E0 objeto\\Composi\u00E7\u00E3o\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Composi\u00E7\u00E3o\\Pessoa.cs",
+              "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\Orienta\u00E7\u00E3o \u00E0 objeto\\Composi\u00E7\u00E3o\\Pessoa.cs*",
+              "RelativeToolTip": "Composi\u00E7\u00E3o\\Pessoa.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:51:04.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\Orienta\u00E7\u00E3o \u00E0 objeto\\Composi\u00E7\u00E3o\\Program.cs",
+              "RelativeDocumentMoniker": "Composi\u00E7\u00E3o\\Program.cs",
+              "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\Orienta\u00E7\u00E3o \u00E0 objeto\\Composi\u00E7\u00E3o\\Program.cs",
+              "RelativeToolTip": "Composi\u00E7\u00E3o\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:49:17.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\Orienta\u00E7\u00E3o \u00E0 objeto\\Associa\u00E7\u00E3o\\Program.cs",
+              "RelativeDocumentMoniker": "Associa\u00E7\u00E3o\\Program.cs",
+              "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\Orienta\u00E7\u00E3o \u00E0 objeto\\Associa\u00E7\u00E3o\\Program.cs",
+              "RelativeToolTip": "Associa\u00E7\u00E3o\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T13:51:20.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\Orienta\u00E7\u00E3o \u00E0 objeto\\Heranca\\Program.cs",
               "RelativeDocumentMoniker": "Heranca\\Program.cs",
               "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\Orienta\u00E7\u00E3o \u00E0 objeto\\Heranca\\Program.cs",
               "RelativeToolTip": "Heranca\\Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAuwDQAAABfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-23T13:17:51.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Produto2.cs",
               "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\Orienta\u00E7\u00E3o \u00E0 objeto\\Orienta\u00E7\u00E3o \u00E0 objeto\\Produto2.cs",
               "RelativeDocumentMoniker": "Orienta\u00E7\u00E3o \u00E0 objeto\\Produto2.cs",
@@ -52,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\Orienta\u00E7\u00E3o \u00E0 objeto\\Orienta\u00E7\u00E3o \u00E0 objeto\\Program.cs",
               "RelativeDocumentMoniker": "Orienta\u00E7\u00E3o \u00E0 objeto\\Program.cs",
               "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\Orienta\u00E7\u00E3o \u00E0 objeto\\Orienta\u00E7\u00E3o \u00E0 objeto\\Program.cs",
               "RelativeToolTip": "Orienta\u00E7\u00E3o \u00E0 objeto\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-23T11:14:26.056Z",
               "EditorCaption": ""

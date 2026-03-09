@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tecnicas-programacaoII\\tecnicas\\interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E11D1E34-8A95-49E8-B9AF-F7986D687B0E}|minhasInterfaces\\minhasInterfaces.csproj|c:\\tecnicas-programacaoii\\tecnicas\\interfaces\\minhasinterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11D1E34-8A95-49E8-B9AF-F7986D687B0E}|minhasInterfaces\\minhasInterfaces.csproj|solutionrelative:minhasinterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\interfaces\\minhasInterfaces\\Program.cs",
+              "RelativeDocumentMoniker": "minhasInterfaces\\Program.cs",
+              "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\interfaces\\minhasInterfaces\\Program.cs",
+              "RelativeToolTip": "minhasInterfaces\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T13:47:19.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

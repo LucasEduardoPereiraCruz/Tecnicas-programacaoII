@@ -1,0 +1,15 @@
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Composição\obj\Debug\net9.0\Composição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Composição\obj\Debug\net9.0\Composição.AssemblyInfoInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Composição\obj\Debug\net9.0\Composição.AssemblyInfo.cs
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Composição\obj\Debug\net9.0\Composição.csproj.CoreCompileInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Composição\obj\Debug\net9.0\Composição.sourcelink.json
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Composição\bin\Debug\net9.0\Composição.exe
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Composição\bin\Debug\net9.0\Composição.deps.json
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Composição\bin\Debug\net9.0\Composição.runtimeconfig.json
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Composição\bin\Debug\net9.0\Composição.dll
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Composição\bin\Debug\net9.0\Composição.pdb
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Composição\obj\Debug\net9.0\Composição.dll
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Composição\obj\Debug\net9.0\refint\Composição.dll
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Composição\obj\Debug\net9.0\Composição.pdb
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Composição\obj\Debug\net9.0\Composição.genruntimeconfig.cache
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Composição\obj\Debug\net9.0\ref\Composição.dll

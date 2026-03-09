@@ -1,0 +1,15 @@
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Associação\bin\Debug\net9.0\Associação.exe
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Associação\bin\Debug\net9.0\Associação.deps.json
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Associação\bin\Debug\net9.0\Associação.runtimeconfig.json
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Associação\bin\Debug\net9.0\Associação.dll
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Associação\bin\Debug\net9.0\Associação.pdb
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Associação\obj\Debug\net9.0\Associação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Associação\obj\Debug\net9.0\Associação.AssemblyInfoInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Associação\obj\Debug\net9.0\Associação.AssemblyInfo.cs
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Associação\obj\Debug\net9.0\Associação.csproj.CoreCompileInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Associação\obj\Debug\net9.0\Associação.sourcelink.json
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Associação\obj\Debug\net9.0\Associação.dll
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Associação\obj\Debug\net9.0\refint\Associação.dll
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Associação\obj\Debug\net9.0\Associação.pdb
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Associação\obj\Debug\net9.0\Associação.genruntimeconfig.cache
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Associação\obj\Debug\net9.0\ref\Associação.dll

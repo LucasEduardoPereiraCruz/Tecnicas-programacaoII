@@ -1,0 +1,15 @@
+C:\Tecnicas-programacaoII\tecnicas\interfaces\minhasInterfaces\bin\Debug\net9.0\minhasInterfaces.exe
+C:\Tecnicas-programacaoII\tecnicas\interfaces\minhasInterfaces\bin\Debug\net9.0\minhasInterfaces.deps.json
+C:\Tecnicas-programacaoII\tecnicas\interfaces\minhasInterfaces\bin\Debug\net9.0\minhasInterfaces.runtimeconfig.json
+C:\Tecnicas-programacaoII\tecnicas\interfaces\minhasInterfaces\bin\Debug\net9.0\minhasInterfaces.dll
+C:\Tecnicas-programacaoII\tecnicas\interfaces\minhasInterfaces\bin\Debug\net9.0\minhasInterfaces.pdb
+C:\Tecnicas-programacaoII\tecnicas\interfaces\minhasInterfaces\obj\Debug\net9.0\minhasInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnicas-programacaoII\tecnicas\interfaces\minhasInterfaces\obj\Debug\net9.0\minhasInterfaces.AssemblyInfoInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\interfaces\minhasInterfaces\obj\Debug\net9.0\minhasInterfaces.AssemblyInfo.cs
+C:\Tecnicas-programacaoII\tecnicas\interfaces\minhasInterfaces\obj\Debug\net9.0\minhasInterfaces.csproj.CoreCompileInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\interfaces\minhasInterfaces\obj\Debug\net9.0\minhasInterfaces.sourcelink.json
+C:\Tecnicas-programacaoII\tecnicas\interfaces\minhasInterfaces\obj\Debug\net9.0\minhasInterfaces.dll
+C:\Tecnicas-programacaoII\tecnicas\interfaces\minhasInterfaces\obj\Debug\net9.0\refint\minhasInterfaces.dll
+C:\Tecnicas-programacaoII\tecnicas\interfaces\minhasInterfaces\obj\Debug\net9.0\minhasInterfaces.pdb
+C:\Tecnicas-programacaoII\tecnicas\interfaces\minhasInterfaces\obj\Debug\net9.0\minhasInterfaces.genruntimeconfig.cache
+C:\Tecnicas-programacaoII\tecnicas\interfaces\minhasInterfaces\obj\Debug\net9.0\ref\minhasInterfaces.dll
