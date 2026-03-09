@@ -1,0 +1,15 @@
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Heranca\bin\Debug\net9.0\Heranca.exe
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Heranca\bin\Debug\net9.0\Heranca.deps.json
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Heranca\bin\Debug\net9.0\Heranca.runtimeconfig.json
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Heranca\bin\Debug\net9.0\Heranca.dll
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Heranca\bin\Debug\net9.0\Heranca.pdb
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Heranca\obj\Debug\net9.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Heranca\obj\Debug\net9.0\Heranca.AssemblyInfoInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Heranca\obj\Debug\net9.0\Heranca.AssemblyInfo.cs
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Heranca\obj\Debug\net9.0\Heranca.csproj.CoreCompileInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Heranca\obj\Debug\net9.0\Heranca.sourcelink.json
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Heranca\obj\Debug\net9.0\Heranca.dll
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Heranca\obj\Debug\net9.0\refint\Heranca.dll
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Heranca\obj\Debug\net9.0\Heranca.pdb
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Heranca\obj\Debug\net9.0\Heranca.genruntimeconfig.cache
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Heranca\obj\Debug\net9.0\ref\Heranca.dll

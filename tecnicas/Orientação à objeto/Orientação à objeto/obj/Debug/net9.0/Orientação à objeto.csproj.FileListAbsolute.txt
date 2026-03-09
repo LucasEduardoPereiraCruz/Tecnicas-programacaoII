@@ -1,0 +1,15 @@
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Orientação à objeto\bin\Debug\net9.0\Orientação à objeto.exe
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Orientação à objeto\bin\Debug\net9.0\Orientação à objeto.deps.json
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Orientação à objeto\bin\Debug\net9.0\Orientação à objeto.runtimeconfig.json
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Orientação à objeto\bin\Debug\net9.0\Orientação à objeto.dll
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Orientação à objeto\bin\Debug\net9.0\Orientação à objeto.pdb
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Orientação à objeto\obj\Debug\net9.0\Orientação à objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Orientação à objeto\obj\Debug\net9.0\Orientação à objeto.AssemblyInfoInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Orientação à objeto\obj\Debug\net9.0\Orientação à objeto.AssemblyInfo.cs
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Orientação à objeto\obj\Debug\net9.0\Orientação à objeto.csproj.CoreCompileInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Orientação à objeto\obj\Debug\net9.0\Orientação à objeto.sourcelink.json
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Orientação à objeto\obj\Debug\net9.0\Orientação à objeto.dll
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Orientação à objeto\obj\Debug\net9.0\refint\Orientação à objeto.dll
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Orientação à objeto\obj\Debug\net9.0\Orientação à objeto.pdb
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Orientação à objeto\obj\Debug\net9.0\Orientação à objeto.genruntimeconfig.cache
+C:\Tecnicas-programacaoII\tecnicas\Orientação à objeto\Orientação à objeto\obj\Debug\net9.0\ref\Orientação à objeto.dll

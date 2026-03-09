@@ -1,0 +1,15 @@
+C:\Tecnicas-programacaoII\tecnicas\Coleções\Coleções\bin\Debug\net9.0\Coleções.exe
+C:\Tecnicas-programacaoII\tecnicas\Coleções\Coleções\bin\Debug\net9.0\Coleções.deps.json
+C:\Tecnicas-programacaoII\tecnicas\Coleções\Coleções\bin\Debug\net9.0\Coleções.runtimeconfig.json
+C:\Tecnicas-programacaoII\tecnicas\Coleções\Coleções\bin\Debug\net9.0\Coleções.dll
+C:\Tecnicas-programacaoII\tecnicas\Coleções\Coleções\bin\Debug\net9.0\Coleções.pdb
+C:\Tecnicas-programacaoII\tecnicas\Coleções\Coleções\obj\Debug\net9.0\Coleções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnicas-programacaoII\tecnicas\Coleções\Coleções\obj\Debug\net9.0\Coleções.AssemblyInfoInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Coleções\Coleções\obj\Debug\net9.0\Coleções.AssemblyInfo.cs
+C:\Tecnicas-programacaoII\tecnicas\Coleções\Coleções\obj\Debug\net9.0\Coleções.csproj.CoreCompileInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Coleções\Coleções\obj\Debug\net9.0\Coleções.sourcelink.json
+C:\Tecnicas-programacaoII\tecnicas\Coleções\Coleções\obj\Debug\net9.0\Coleções.dll
+C:\Tecnicas-programacaoII\tecnicas\Coleções\Coleções\obj\Debug\net9.0\refint\Coleções.dll
+C:\Tecnicas-programacaoII\tecnicas\Coleções\Coleções\obj\Debug\net9.0\Coleções.pdb
+C:\Tecnicas-programacaoII\tecnicas\Coleções\Coleções\obj\Debug\net9.0\Coleções.genruntimeconfig.cache
+C:\Tecnicas-programacaoII\tecnicas\Coleções\Coleções\obj\Debug\net9.0\ref\Coleções.dll
