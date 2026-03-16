@@ -1,0 +1,15 @@
+C:\Tecnicas-programacaoII\tecnicas\IEnumerable\ICollection\bin\Debug\net9.0\ICollection.exe
+C:\Tecnicas-programacaoII\tecnicas\IEnumerable\ICollection\bin\Debug\net9.0\ICollection.deps.json
+C:\Tecnicas-programacaoII\tecnicas\IEnumerable\ICollection\bin\Debug\net9.0\ICollection.runtimeconfig.json
+C:\Tecnicas-programacaoII\tecnicas\IEnumerable\ICollection\bin\Debug\net9.0\ICollection.dll
+C:\Tecnicas-programacaoII\tecnicas\IEnumerable\ICollection\bin\Debug\net9.0\ICollection.pdb
+C:\Tecnicas-programacaoII\tecnicas\IEnumerable\ICollection\obj\Debug\net9.0\ICollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnicas-programacaoII\tecnicas\IEnumerable\ICollection\obj\Debug\net9.0\ICollection.AssemblyInfoInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\IEnumerable\ICollection\obj\Debug\net9.0\ICollection.AssemblyInfo.cs
+C:\Tecnicas-programacaoII\tecnicas\IEnumerable\ICollection\obj\Debug\net9.0\ICollection.csproj.CoreCompileInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\IEnumerable\ICollection\obj\Debug\net9.0\ICollection.sourcelink.json
+C:\Tecnicas-programacaoII\tecnicas\IEnumerable\ICollection\obj\Debug\net9.0\ICollection.dll
+C:\Tecnicas-programacaoII\tecnicas\IEnumerable\ICollection\obj\Debug\net9.0\refint\ICollection.dll
+C:\Tecnicas-programacaoII\tecnicas\IEnumerable\ICollection\obj\Debug\net9.0\ICollection.pdb
+C:\Tecnicas-programacaoII\tecnicas\IEnumerable\ICollection\obj\Debug\net9.0\ICollection.genruntimeconfig.cache
+C:\Tecnicas-programacaoII\tecnicas\IEnumerable\ICollection\obj\Debug\net9.0\ref\ICollection.dll

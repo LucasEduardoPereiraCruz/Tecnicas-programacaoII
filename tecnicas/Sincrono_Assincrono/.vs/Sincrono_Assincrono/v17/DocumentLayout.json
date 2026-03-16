@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tecnicas-programacaoII\\tecnicas\\Sincrono_Assincrono\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B534FA-2ADA-4F4C-992D-8F1681981871}|Assincrono\\Assincrono.csproj|c:\\tecnicas-programacaoii\\tecnicas\\sincrono_assincrono\\assincrono\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B534FA-2ADA-4F4C-992D-8F1681981871}|Assincrono\\Assincrono.csproj|solutionrelative:assincrono\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6166EA05-74CA-485D-AA30-719BA40B13E7}|Sincrono\\Sincrono.csproj|c:\\tecnicas-programacaoii\\tecnicas\\sincrono_assincrono\\sincrono\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6166EA05-74CA-485D-AA30-719BA40B13E7}|Sincrono\\Sincrono.csproj|solutionrelative:sincrono\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\Sincrono_Assincrono\\Assincrono\\Program.cs",
+              "RelativeDocumentMoniker": "Assincrono\\Program.cs",
+              "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\Sincrono_Assincrono\\Assincrono\\Program.cs",
+              "RelativeToolTip": "Assincrono\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T12:16:34.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\Sincrono_Assincrono\\Sincrono\\Program.cs",
+              "RelativeDocumentMoniker": "Sincrono\\Program.cs",
+              "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\Sincrono_Assincrono\\Sincrono\\Program.cs",
+              "RelativeToolTip": "Sincrono\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T11:56:19.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

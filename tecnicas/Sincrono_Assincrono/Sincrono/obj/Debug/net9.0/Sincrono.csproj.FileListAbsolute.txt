@@ -1,0 +1,15 @@
+C:\Tecnicas-programacaoII\tecnicas\Sincrono_Assincrono\Sincrono\bin\Debug\net9.0\Sincrono.exe
+C:\Tecnicas-programacaoII\tecnicas\Sincrono_Assincrono\Sincrono\bin\Debug\net9.0\Sincrono.deps.json
+C:\Tecnicas-programacaoII\tecnicas\Sincrono_Assincrono\Sincrono\bin\Debug\net9.0\Sincrono.runtimeconfig.json
+C:\Tecnicas-programacaoII\tecnicas\Sincrono_Assincrono\Sincrono\bin\Debug\net9.0\Sincrono.dll
+C:\Tecnicas-programacaoII\tecnicas\Sincrono_Assincrono\Sincrono\bin\Debug\net9.0\Sincrono.pdb
+C:\Tecnicas-programacaoII\tecnicas\Sincrono_Assincrono\Sincrono\obj\Debug\net9.0\Sincrono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnicas-programacaoII\tecnicas\Sincrono_Assincrono\Sincrono\obj\Debug\net9.0\Sincrono.AssemblyInfoInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Sincrono_Assincrono\Sincrono\obj\Debug\net9.0\Sincrono.AssemblyInfo.cs
+C:\Tecnicas-programacaoII\tecnicas\Sincrono_Assincrono\Sincrono\obj\Debug\net9.0\Sincrono.csproj.CoreCompileInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Sincrono_Assincrono\Sincrono\obj\Debug\net9.0\Sincrono.sourcelink.json
+C:\Tecnicas-programacaoII\tecnicas\Sincrono_Assincrono\Sincrono\obj\Debug\net9.0\Sincrono.dll
+C:\Tecnicas-programacaoII\tecnicas\Sincrono_Assincrono\Sincrono\obj\Debug\net9.0\refint\Sincrono.dll
+C:\Tecnicas-programacaoII\tecnicas\Sincrono_Assincrono\Sincrono\obj\Debug\net9.0\Sincrono.pdb
+C:\Tecnicas-programacaoII\tecnicas\Sincrono_Assincrono\Sincrono\obj\Debug\net9.0\Sincrono.genruntimeconfig.cache
+C:\Tecnicas-programacaoII\tecnicas\Sincrono_Assincrono\Sincrono\obj\Debug\net9.0\ref\Sincrono.dll
