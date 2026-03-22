@@ -6,11 +6,14 @@ using System.Threading.Tasks;
 
 namespace Projeto_Fabricas
 {
-    internal class Maquina : Equipamento
-    {   
+    public class Maquina
+    {
         public string Modelo { get; set; }
         public string HoraOperacao { get; set; }
+
         public Guid NumeroSerie { get; } = Guid.NewGuid();
-        public string Observacao { get; set; } // !!!!
+
+        public string Observacao { private get; set; } 
+        public Equipamento Equipamento { get; set; }
     }
 }

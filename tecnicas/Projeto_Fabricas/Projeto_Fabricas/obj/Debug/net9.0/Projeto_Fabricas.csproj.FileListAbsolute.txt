@@ -1,0 +1,15 @@
+C:\Tecnicas-programacaoII\tecnicas\Projeto_Fabricas\Projeto_Fabricas\obj\Debug\net9.0\Projeto_Fabricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnicas-programacaoII\tecnicas\Projeto_Fabricas\Projeto_Fabricas\obj\Debug\net9.0\Projeto_Fabricas.AssemblyInfoInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Projeto_Fabricas\Projeto_Fabricas\obj\Debug\net9.0\Projeto_Fabricas.AssemblyInfo.cs
+C:\Tecnicas-programacaoII\tecnicas\Projeto_Fabricas\Projeto_Fabricas\obj\Debug\net9.0\Projeto_Fabricas.csproj.CoreCompileInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Projeto_Fabricas\Projeto_Fabricas\obj\Debug\net9.0\Projeto_Fabricas.sourcelink.json
+C:\Tecnicas-programacaoII\tecnicas\Projeto_Fabricas\Projeto_Fabricas\bin\Debug\net9.0\Projeto_Fabricas.exe
+C:\Tecnicas-programacaoII\tecnicas\Projeto_Fabricas\Projeto_Fabricas\bin\Debug\net9.0\Projeto_Fabricas.deps.json
+C:\Tecnicas-programacaoII\tecnicas\Projeto_Fabricas\Projeto_Fabricas\bin\Debug\net9.0\Projeto_Fabricas.runtimeconfig.json
+C:\Tecnicas-programacaoII\tecnicas\Projeto_Fabricas\Projeto_Fabricas\bin\Debug\net9.0\Projeto_Fabricas.dll
+C:\Tecnicas-programacaoII\tecnicas\Projeto_Fabricas\Projeto_Fabricas\bin\Debug\net9.0\Projeto_Fabricas.pdb
+C:\Tecnicas-programacaoII\tecnicas\Projeto_Fabricas\Projeto_Fabricas\obj\Debug\net9.0\Projeto_Fabricas.dll
+C:\Tecnicas-programacaoII\tecnicas\Projeto_Fabricas\Projeto_Fabricas\obj\Debug\net9.0\refint\Projeto_Fabricas.dll
+C:\Tecnicas-programacaoII\tecnicas\Projeto_Fabricas\Projeto_Fabricas\obj\Debug\net9.0\Projeto_Fabricas.pdb
+C:\Tecnicas-programacaoII\tecnicas\Projeto_Fabricas\Projeto_Fabricas\obj\Debug\net9.0\Projeto_Fabricas.genruntimeconfig.cache
+C:\Tecnicas-programacaoII\tecnicas\Projeto_Fabricas\Projeto_Fabricas\obj\Debug\net9.0\ref\Projeto_Fabricas.dll

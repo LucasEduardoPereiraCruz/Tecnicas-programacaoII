@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Tecnicas-programacaoII\\tecnicas\\Projeto_Fabricas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{21E9E7D0-DEBA-4624-B6F9-DF8537524378}|Projeto_Fabricas\\Projeto_Fabricas.csproj|c:\\tecnicas-programacaoii\\tecnicas\\projeto_fabricas\\projeto_fabricas\\fabricas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E9E7D0-DEBA-4624-B6F9-DF8537524378}|Projeto_Fabricas\\Projeto_Fabricas.csproj|solutionrelative:projeto_fabricas\\fabricas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E9E7D0-DEBA-4624-B6F9-DF8537524378}|Projeto_Fabricas\\Projeto_Fabricas.csproj|c:\\tecnicas-programacaoii\\tecnicas\\projeto_fabricas\\projeto_fabricas\\maquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E9E7D0-DEBA-4624-B6F9-DF8537524378}|Projeto_Fabricas\\Projeto_Fabricas.csproj|solutionrelative:projeto_fabricas\\maquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E9E7D0-DEBA-4624-B6F9-DF8537524378}|Projeto_Fabricas\\Projeto_Fabricas.csproj|c:\\tecnicas-programacaoii\\tecnicas\\projeto_fabricas\\projeto_fabricas\\operador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E9E7D0-DEBA-4624-B6F9-DF8537524378}|Projeto_Fabricas\\Projeto_Fabricas.csproj|solutionrelative:projeto_fabricas\\operador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E9E7D0-DEBA-4624-B6F9-DF8537524378}|Projeto_Fabricas\\Projeto_Fabricas.csproj|c:\\tecnicas-programacaoii\\tecnicas\\projeto_fabricas\\projeto_fabricas\\maquinanaoencontradaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E9E7D0-DEBA-4624-B6F9-DF8537524378}|Projeto_Fabricas\\Projeto_Fabricas.csproj|solutionrelative:projeto_fabricas\\maquinanaoencontradaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E9E7D0-DEBA-4624-B6F9-DF8537524378}|Projeto_Fabricas\\Projeto_Fabricas.csproj|c:\\tecnicas-programacaoii\\tecnicas\\projeto_fabricas\\projeto_fabricas\\equipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E9E7D0-DEBA-4624-B6F9-DF8537524378}|Projeto_Fabricas\\Projeto_Fabricas.csproj|solutionrelative:projeto_fabricas\\equipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{21E9E7D0-DEBA-4624-B6F9-DF8537524378}|Projeto_Fabricas\\Projeto_Fabricas.csproj|c:\\tecnicas-programacaoii\\tecnicas\\projeto_fabricas\\projeto_fabricas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21E9E7D0-DEBA-4624-B6F9-DF8537524378}|Projeto_Fabricas\\Projeto_Fabricas.csproj|solutionrelative:projeto_fabricas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,19 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\Projeto_Fabricas\\Projeto_Fabricas\\Program.cs",
               "RelativeDocumentMoniker": "Projeto_Fabricas\\Program.cs",
               "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\Projeto_Fabricas\\Projeto_Fabricas\\Program.cs",
               "RelativeToolTip": "Projeto_Fabricas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T13:27:32.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Equipamento.cs",
+              "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\Projeto_Fabricas\\Projeto_Fabricas\\Equipamento.cs",
+              "RelativeDocumentMoniker": "Projeto_Fabricas\\Equipamento.cs",
+              "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\Projeto_Fabricas\\Projeto_Fabricas\\Equipamento.cs",
+              "RelativeToolTip": "Projeto_Fabricas\\Equipamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:34:53.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MaquinaNaoEncontradaException.cs",
+              "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\Projeto_Fabricas\\Projeto_Fabricas\\MaquinaNaoEncontradaException.cs",
+              "RelativeDocumentMoniker": "Projeto_Fabricas\\MaquinaNaoEncontradaException.cs",
+              "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\Projeto_Fabricas\\Projeto_Fabricas\\MaquinaNaoEncontradaException.cs",
+              "RelativeToolTip": "Projeto_Fabricas\\MaquinaNaoEncontradaException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T19:44:15.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operador.cs",
+              "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\Projeto_Fabricas\\Projeto_Fabricas\\Operador.cs",
+              "RelativeDocumentMoniker": "Projeto_Fabricas\\Operador.cs",
+              "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\Projeto_Fabricas\\Projeto_Fabricas\\Operador.cs",
+              "RelativeToolTip": "Projeto_Fabricas\\Operador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:33:00.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Maquina.cs",
+              "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\Projeto_Fabricas\\Projeto_Fabricas\\Maquina.cs",
+              "RelativeDocumentMoniker": "Projeto_Fabricas\\Maquina.cs",
+              "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\Projeto_Fabricas\\Projeto_Fabricas\\Maquina.cs",
+              "RelativeToolTip": "Projeto_Fabricas\\Maquina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:32:33.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fabricas.cs",
+              "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\Projeto_Fabricas\\Projeto_Fabricas\\Fabricas.cs",
+              "RelativeDocumentMoniker": "Projeto_Fabricas\\Fabricas.cs",
+              "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\Projeto_Fabricas\\Projeto_Fabricas\\Fabricas.cs",
+              "RelativeToolTip": "Projeto_Fabricas\\Fabricas.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:32:02.071Z",
               "EditorCaption": ""
             }
           ]

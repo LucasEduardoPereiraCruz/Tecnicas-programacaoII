@@ -6,33 +6,43 @@ using System.Threading.Tasks;
 
 namespace Projeto_Fabricas
 {
-    internal class Fabricas
+    public class Fabrica
     {
         public string Nome { get; set; }
 
-        private ICollection<Maquina> Maquinas = new List<Maquina>();
+        private List<Maquina> maquinas = new List<Maquina>();
 
         public void AdicionarMaquina(Maquina maquina)
         {
-            Maquinas.Add(maquina); 
+            maquinas.Add(maquina);
         }
 
         public void ListarMaquinas()
         {
-            foreach(var maquina in Maquinas)
+            for (int i = 0; i < maquinas.Count; i++)
             {
-                Console.WriteLine($"{maquina.Nome} {maquina.Modelo} {maquina.DataFabricacao} {maquina.NumeroSerie}");
+                var maquina = maquinas[i];
+
+                Console.WriteLine(
+                    $"{maquina.Equipamento.Nome} " +
+                    $"{maquina.Modelo} " +
+                    $"{maquina.Equipamento.DataFabricacao} " +
+                    $"{maquina.NumeroSerie}"
+                );
             }
         }
 
         public Maquina BuscarMaquinaPorModelo(string modelo)
         {
-            var maquina = Maquinas.FirstOrDefault(m => m.Modelo == modelo);
+            for (int i = 0; i < maquinas.Count; i++)
+            {
+                if (maquinas[i].Modelo == modelo)
+                {
+                    return maquinas[i];
+                }
+            }
 
-            if (maquina == null)
-                throw new Exception("Máquina não encontrada");
-
-            return maquina;
+            return null; // ESSENCIAL
         }
     }
 }

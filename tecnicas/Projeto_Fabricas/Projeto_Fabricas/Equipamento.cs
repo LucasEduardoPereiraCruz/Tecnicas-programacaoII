@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Projeto_Fabricas
 {
-    internal class Equipamento
+    public class Equipamento
     {
         public string Nome { get; set; }
         public DateTime DataFabricacao { get; set; }
