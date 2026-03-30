@@ -1,0 +1,15 @@
+C:\Tecnicas-programacaoII\tecnicas\exception\personalizada\bin\Debug\net9.0\personalizada.exe
+C:\Tecnicas-programacaoII\tecnicas\exception\personalizada\bin\Debug\net9.0\personalizada.deps.json
+C:\Tecnicas-programacaoII\tecnicas\exception\personalizada\bin\Debug\net9.0\personalizada.runtimeconfig.json
+C:\Tecnicas-programacaoII\tecnicas\exception\personalizada\bin\Debug\net9.0\personalizada.dll
+C:\Tecnicas-programacaoII\tecnicas\exception\personalizada\bin\Debug\net9.0\personalizada.pdb
+C:\Tecnicas-programacaoII\tecnicas\exception\personalizada\obj\Debug\net9.0\personalizada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnicas-programacaoII\tecnicas\exception\personalizada\obj\Debug\net9.0\personalizada.AssemblyInfoInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\exception\personalizada\obj\Debug\net9.0\personalizada.AssemblyInfo.cs
+C:\Tecnicas-programacaoII\tecnicas\exception\personalizada\obj\Debug\net9.0\personalizada.csproj.CoreCompileInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\exception\personalizada\obj\Debug\net9.0\personalizada.sourcelink.json
+C:\Tecnicas-programacaoII\tecnicas\exception\personalizada\obj\Debug\net9.0\personalizada.dll
+C:\Tecnicas-programacaoII\tecnicas\exception\personalizada\obj\Debug\net9.0\refint\personalizada.dll
+C:\Tecnicas-programacaoII\tecnicas\exception\personalizada\obj\Debug\net9.0\personalizada.pdb
+C:\Tecnicas-programacaoII\tecnicas\exception\personalizada\obj\Debug\net9.0\personalizada.genruntimeconfig.cache
+C:\Tecnicas-programacaoII\tecnicas\exception\personalizada\obj\Debug\net9.0\ref\personalizada.dll

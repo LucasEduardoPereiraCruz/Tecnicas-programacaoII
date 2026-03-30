@@ -1,0 +1,15 @@
+C:\Tecnicas-programacaoII\tecnicas\exception\Try_catch_finally\bin\Debug\net9.0\Try_catch_finally.exe
+C:\Tecnicas-programacaoII\tecnicas\exception\Try_catch_finally\bin\Debug\net9.0\Try_catch_finally.deps.json
+C:\Tecnicas-programacaoII\tecnicas\exception\Try_catch_finally\bin\Debug\net9.0\Try_catch_finally.runtimeconfig.json
+C:\Tecnicas-programacaoII\tecnicas\exception\Try_catch_finally\bin\Debug\net9.0\Try_catch_finally.dll
+C:\Tecnicas-programacaoII\tecnicas\exception\Try_catch_finally\bin\Debug\net9.0\Try_catch_finally.pdb
+C:\Tecnicas-programacaoII\tecnicas\exception\Try_catch_finally\obj\Debug\net9.0\Try_catch_finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnicas-programacaoII\tecnicas\exception\Try_catch_finally\obj\Debug\net9.0\Try_catch_finally.AssemblyInfoInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\exception\Try_catch_finally\obj\Debug\net9.0\Try_catch_finally.AssemblyInfo.cs
+C:\Tecnicas-programacaoII\tecnicas\exception\Try_catch_finally\obj\Debug\net9.0\Try_catch_finally.csproj.CoreCompileInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\exception\Try_catch_finally\obj\Debug\net9.0\Try_catch_finally.sourcelink.json
+C:\Tecnicas-programacaoII\tecnicas\exception\Try_catch_finally\obj\Debug\net9.0\Try_catch_finally.dll
+C:\Tecnicas-programacaoII\tecnicas\exception\Try_catch_finally\obj\Debug\net9.0\refint\Try_catch_finally.dll
+C:\Tecnicas-programacaoII\tecnicas\exception\Try_catch_finally\obj\Debug\net9.0\Try_catch_finally.pdb
+C:\Tecnicas-programacaoII\tecnicas\exception\Try_catch_finally\obj\Debug\net9.0\Try_catch_finally.genruntimeconfig.cache
+C:\Tecnicas-programacaoII\tecnicas\exception\Try_catch_finally\obj\Debug\net9.0\ref\Try_catch_finally.dll
