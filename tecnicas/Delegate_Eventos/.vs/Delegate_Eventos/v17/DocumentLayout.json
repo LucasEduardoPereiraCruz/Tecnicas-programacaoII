@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tecnicas-programacaoII\\tecnicas\\Delegate_Eventos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B877984C-AA0F-44FD-BAEB-E59CB457D553}|EventsHandle_comargumentos\\EventsHandle_comargumentos.csproj|c:\\tecnicas-programacaoii\\tecnicas\\delegate_eventos\\eventshandle_comargumentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B877984C-AA0F-44FD-BAEB-E59CB457D553}|EventsHandle_comargumentos\\EventsHandle_comargumentos.csproj|solutionrelative:eventshandle_comargumentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC96AA5F-9BFB-4239-98A8-ED676F7691EE}|EventHandle_semargumentos\\EventHandle_semargumentos.csproj|c:\\tecnicas-programacaoii\\tecnicas\\delegate_eventos\\eventhandle_semargumentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC96AA5F-9BFB-4239-98A8-ED676F7691EE}|EventHandle_semargumentos\\EventHandle_semargumentos.csproj|solutionrelative:eventhandle_semargumentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E761ED33-3B68-46F8-A0FE-8B20A5651E3B}|Evento\\Evento.csproj|c:\\tecnicas-programacaoii\\tecnicas\\delegate_eventos\\evento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E761ED33-3B68-46F8-A0FE-8B20A5651E3B}|Evento\\Evento.csproj|solutionrelative:evento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC41B17A-6685-4263-B1D0-887CDEBF96E0}|Delegate\\Delegate.csproj|c:\\tecnicas-programacaoii\\tecnicas\\delegate_eventos\\delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC41B17A-6685-4263-B1D0-887CDEBF96E0}|Delegate\\Delegate.csproj|solutionrelative:delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\Delegate_Eventos\\EventsHandle_comargumentos\\Program.cs",
+              "RelativeDocumentMoniker": "EventsHandle_comargumentos\\Program.cs",
+              "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\Delegate_Eventos\\EventsHandle_comargumentos\\Program.cs",
+              "RelativeToolTip": "EventsHandle_comargumentos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:51:24.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\Delegate_Eventos\\EventHandle_semargumentos\\Program.cs",
+              "RelativeDocumentMoniker": "EventHandle_semargumentos\\Program.cs",
+              "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\Delegate_Eventos\\EventHandle_semargumentos\\Program.cs",
+              "RelativeToolTip": "EventHandle_semargumentos\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:36:26.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\Delegate_Eventos\\Evento\\Program.cs",
+              "RelativeDocumentMoniker": "Evento\\Program.cs",
+              "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\Delegate_Eventos\\Evento\\Program.cs",
+              "RelativeToolTip": "Evento\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T11:33:55.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\Delegate_Eventos\\Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate\\Program.cs",
+              "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\Delegate_Eventos\\Delegate\\Program.cs",
+              "RelativeToolTip": "Delegate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T11:20:21.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

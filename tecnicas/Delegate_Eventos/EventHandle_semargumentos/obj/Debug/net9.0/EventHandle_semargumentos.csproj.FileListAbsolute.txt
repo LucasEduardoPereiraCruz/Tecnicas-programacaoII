@@ -1,0 +1,15 @@
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventHandle_semargumentos\bin\Debug\net9.0\EventHandle_semargumentos.exe
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventHandle_semargumentos\bin\Debug\net9.0\EventHandle_semargumentos.deps.json
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventHandle_semargumentos\bin\Debug\net9.0\EventHandle_semargumentos.runtimeconfig.json
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventHandle_semargumentos\bin\Debug\net9.0\EventHandle_semargumentos.dll
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventHandle_semargumentos\bin\Debug\net9.0\EventHandle_semargumentos.pdb
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventHandle_semargumentos\obj\Debug\net9.0\EventHandle_semargumentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventHandle_semargumentos\obj\Debug\net9.0\EventHandle_semargumentos.AssemblyInfoInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventHandle_semargumentos\obj\Debug\net9.0\EventHandle_semargumentos.AssemblyInfo.cs
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventHandle_semargumentos\obj\Debug\net9.0\EventHandle_semargumentos.csproj.CoreCompileInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventHandle_semargumentos\obj\Debug\net9.0\EventHandle_semargumentos.sourcelink.json
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventHandle_semargumentos\obj\Debug\net9.0\EventHandle_semargumentos.dll
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventHandle_semargumentos\obj\Debug\net9.0\refint\EventHandle_semargumentos.dll
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventHandle_semargumentos\obj\Debug\net9.0\EventHandle_semargumentos.pdb
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventHandle_semargumentos\obj\Debug\net9.0\EventHandle_semargumentos.genruntimeconfig.cache
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventHandle_semargumentos\obj\Debug\net9.0\ref\EventHandle_semargumentos.dll

@@ -1,0 +1,15 @@
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\Delegate\bin\Debug\net9.0\Delegate.exe
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\Delegate\bin\Debug\net9.0\Delegate.deps.json
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\Delegate\bin\Debug\net9.0\Delegate.runtimeconfig.json
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\Delegate\bin\Debug\net9.0\Delegate.dll
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\Delegate\bin\Debug\net9.0\Delegate.pdb
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\Delegate\obj\Debug\net9.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\Delegate\obj\Debug\net9.0\Delegate.AssemblyInfoInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\Delegate\obj\Debug\net9.0\Delegate.AssemblyInfo.cs
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\Delegate\obj\Debug\net9.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\Delegate\obj\Debug\net9.0\Delegate.sourcelink.json
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\Delegate\obj\Debug\net9.0\Delegate.dll
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\Delegate\obj\Debug\net9.0\refint\Delegate.dll
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\Delegate\obj\Debug\net9.0\Delegate.pdb
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\Delegate\obj\Debug\net9.0\Delegate.genruntimeconfig.cache
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\Delegate\obj\Debug\net9.0\ref\Delegate.dll

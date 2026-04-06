@@ -1,0 +1,15 @@
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventsHandle_comargumentos\bin\Debug\net9.0\EventsHandle_comargumentos.exe
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventsHandle_comargumentos\bin\Debug\net9.0\EventsHandle_comargumentos.deps.json
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventsHandle_comargumentos\bin\Debug\net9.0\EventsHandle_comargumentos.runtimeconfig.json
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventsHandle_comargumentos\bin\Debug\net9.0\EventsHandle_comargumentos.dll
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventsHandle_comargumentos\bin\Debug\net9.0\EventsHandle_comargumentos.pdb
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventsHandle_comargumentos\obj\Debug\net9.0\EventsHandle_comargumentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventsHandle_comargumentos\obj\Debug\net9.0\EventsHandle_comargumentos.AssemblyInfoInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventsHandle_comargumentos\obj\Debug\net9.0\EventsHandle_comargumentos.AssemblyInfo.cs
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventsHandle_comargumentos\obj\Debug\net9.0\EventsHandle_comargumentos.csproj.CoreCompileInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventsHandle_comargumentos\obj\Debug\net9.0\EventsHandle_comargumentos.sourcelink.json
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventsHandle_comargumentos\obj\Debug\net9.0\EventsHandle_comargumentos.dll
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventsHandle_comargumentos\obj\Debug\net9.0\refint\EventsHandle_comargumentos.dll
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventsHandle_comargumentos\obj\Debug\net9.0\EventsHandle_comargumentos.pdb
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventsHandle_comargumentos\obj\Debug\net9.0\EventsHandle_comargumentos.genruntimeconfig.cache
+C:\Tecnicas-programacaoII\tecnicas\Delegate_Eventos\EventsHandle_comargumentos\obj\Debug\net9.0\ref\EventsHandle_comargumentos.dll
