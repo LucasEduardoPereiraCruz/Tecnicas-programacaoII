@@ -1,0 +1,15 @@
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\ContagemCliques\bin\Debug\net9.0\ContagemCliques.exe
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\ContagemCliques\bin\Debug\net9.0\ContagemCliques.deps.json
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\ContagemCliques\bin\Debug\net9.0\ContagemCliques.runtimeconfig.json
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\ContagemCliques\bin\Debug\net9.0\ContagemCliques.dll
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\ContagemCliques\bin\Debug\net9.0\ContagemCliques.pdb
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\ContagemCliques\obj\Debug\net9.0\ContagemCliques.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\ContagemCliques\obj\Debug\net9.0\ContagemCliques.AssemblyInfoInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\ContagemCliques\obj\Debug\net9.0\ContagemCliques.AssemblyInfo.cs
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\ContagemCliques\obj\Debug\net9.0\ContagemCliques.csproj.CoreCompileInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\ContagemCliques\obj\Debug\net9.0\ContagemCliques.sourcelink.json
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\ContagemCliques\obj\Debug\net9.0\ContagemCliques.dll
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\ContagemCliques\obj\Debug\net9.0\refint\ContagemCliques.dll
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\ContagemCliques\obj\Debug\net9.0\ContagemCliques.pdb
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\ContagemCliques\obj\Debug\net9.0\ContagemCliques.genruntimeconfig.cache
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\ContagemCliques\obj\Debug\net9.0\ref\ContagemCliques.dll

@@ -1,0 +1,15 @@
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\AlarmeTemperatura\obj\Debug\net9.0\AlarmeTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\AlarmeTemperatura\obj\Debug\net9.0\AlarmeTemperatura.AssemblyInfoInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\AlarmeTemperatura\obj\Debug\net9.0\AlarmeTemperatura.AssemblyInfo.cs
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\AlarmeTemperatura\obj\Debug\net9.0\AlarmeTemperatura.csproj.CoreCompileInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\AlarmeTemperatura\obj\Debug\net9.0\AlarmeTemperatura.sourcelink.json
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\AlarmeTemperatura\bin\Debug\net9.0\AlarmeTemperatura.exe
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\AlarmeTemperatura\bin\Debug\net9.0\AlarmeTemperatura.deps.json
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\AlarmeTemperatura\bin\Debug\net9.0\AlarmeTemperatura.runtimeconfig.json
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\AlarmeTemperatura\bin\Debug\net9.0\AlarmeTemperatura.dll
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\AlarmeTemperatura\bin\Debug\net9.0\AlarmeTemperatura.pdb
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\AlarmeTemperatura\obj\Debug\net9.0\AlarmeTemperatura.dll
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\AlarmeTemperatura\obj\Debug\net9.0\refint\AlarmeTemperatura.dll
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\AlarmeTemperatura\obj\Debug\net9.0\AlarmeTemperatura.pdb
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\AlarmeTemperatura\obj\Debug\net9.0\AlarmeTemperatura.genruntimeconfig.cache
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\AlarmeTemperatura\obj\Debug\net9.0\ref\AlarmeTemperatura.dll

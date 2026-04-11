@@ -1,0 +1,15 @@
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Operacoes_delegate\bin\Debug\net9.0\Operacoes_delegate.exe
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Operacoes_delegate\bin\Debug\net9.0\Operacoes_delegate.deps.json
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Operacoes_delegate\bin\Debug\net9.0\Operacoes_delegate.runtimeconfig.json
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Operacoes_delegate\bin\Debug\net9.0\Operacoes_delegate.dll
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Operacoes_delegate\bin\Debug\net9.0\Operacoes_delegate.pdb
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Operacoes_delegate\obj\Debug\net9.0\Operacoes_delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Operacoes_delegate\obj\Debug\net9.0\Operacoes_delegate.AssemblyInfoInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Operacoes_delegate\obj\Debug\net9.0\Operacoes_delegate.AssemblyInfo.cs
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Operacoes_delegate\obj\Debug\net9.0\Operacoes_delegate.csproj.CoreCompileInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Operacoes_delegate\obj\Debug\net9.0\Operacoes_delegate.sourcelink.json
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Operacoes_delegate\obj\Debug\net9.0\Operacoes_delegate.dll
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Operacoes_delegate\obj\Debug\net9.0\refint\Operacoes_delegate.dll
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Operacoes_delegate\obj\Debug\net9.0\Operacoes_delegate.pdb
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Operacoes_delegate\obj\Debug\net9.0\Operacoes_delegate.genruntimeconfig.cache
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Operacoes_delegate\obj\Debug\net9.0\ref\Operacoes_delegate.dll

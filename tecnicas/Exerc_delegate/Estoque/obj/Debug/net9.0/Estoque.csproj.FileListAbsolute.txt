@@ -1,0 +1,15 @@
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Estoque\obj\Debug\net9.0\Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Estoque\obj\Debug\net9.0\Estoque.AssemblyInfoInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Estoque\obj\Debug\net9.0\Estoque.AssemblyInfo.cs
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Estoque\obj\Debug\net9.0\Estoque.csproj.CoreCompileInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Estoque\obj\Debug\net9.0\Estoque.sourcelink.json
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Estoque\bin\Debug\net9.0\Estoque.exe
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Estoque\bin\Debug\net9.0\Estoque.deps.json
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Estoque\bin\Debug\net9.0\Estoque.runtimeconfig.json
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Estoque\bin\Debug\net9.0\Estoque.dll
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Estoque\bin\Debug\net9.0\Estoque.pdb
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Estoque\obj\Debug\net9.0\Estoque.dll
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Estoque\obj\Debug\net9.0\refint\Estoque.dll
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Estoque\obj\Debug\net9.0\Estoque.pdb
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Estoque\obj\Debug\net9.0\Estoque.genruntimeconfig.cache
+C:\Tecnicas-programacaoII\tecnicas\Exerc_delegate\Estoque\obj\Debug\net9.0\ref\Estoque.dll
