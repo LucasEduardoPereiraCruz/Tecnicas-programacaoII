@@ -1,0 +1,15 @@
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Desserializacao_Serializacao\bin\Debug\net9.0\Desserializacao_Serializacao.exe
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Desserializacao_Serializacao\bin\Debug\net9.0\Desserializacao_Serializacao.deps.json
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Desserializacao_Serializacao\bin\Debug\net9.0\Desserializacao_Serializacao.runtimeconfig.json
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Desserializacao_Serializacao\bin\Debug\net9.0\Desserializacao_Serializacao.dll
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Desserializacao_Serializacao\bin\Debug\net9.0\Desserializacao_Serializacao.pdb
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Desserializacao_Serializacao\obj\Debug\net9.0\Desserializacao_Serializacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Desserializacao_Serializacao\obj\Debug\net9.0\Desserializacao_Serializacao.AssemblyInfoInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Desserializacao_Serializacao\obj\Debug\net9.0\Desserializacao_Serializacao.AssemblyInfo.cs
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Desserializacao_Serializacao\obj\Debug\net9.0\Desserializacao_Serializacao.csproj.CoreCompileInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Desserializacao_Serializacao\obj\Debug\net9.0\Desserializacao_Serializacao.sourcelink.json
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Desserializacao_Serializacao\obj\Debug\net9.0\Desserializacao_Serializacao.dll
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Desserializacao_Serializacao\obj\Debug\net9.0\refint\Desserializacao_Serializacao.dll
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Desserializacao_Serializacao\obj\Debug\net9.0\Desserializacao_Serializacao.pdb
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Desserializacao_Serializacao\obj\Debug\net9.0\Desserializacao_Serializacao.genruntimeconfig.cache
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Desserializacao_Serializacao\obj\Debug\net9.0\ref\Desserializacao_Serializacao.dll

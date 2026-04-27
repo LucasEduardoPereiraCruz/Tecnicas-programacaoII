@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tecnicas-programacaoII\\tecnicas\\Manipulacao_Arquivos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F05E353F-3B94-4534-8123-FABC81B8097A}|Serializacao_Desserializacao_arquivo\\Serializacao_Desserializacao_arquivo.csproj|c:\\tecnicas-programacaoii\\tecnicas\\manipulacao_arquivos\\serializacao_desserializacao_arquivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05E353F-3B94-4534-8123-FABC81B8097A}|Serializacao_Desserializacao_arquivo\\Serializacao_Desserializacao_arquivo.csproj|solutionrelative:serializacao_desserializacao_arquivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315D9066-25C8-4B08-9486-02F1F4D98B2B}|Desserializacao_Serializacao\\Desserializacao_Serializacao.csproj|c:\\tecnicas-programacaoii\\tecnicas\\manipulacao_arquivos\\desserializacao_serializacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315D9066-25C8-4B08-9486-02F1F4D98B2B}|Desserializacao_Serializacao\\Desserializacao_Serializacao.csproj|solutionrelative:desserializacao_serializacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C950C7E-4ED1-4934-94A7-23830F13F112}|Manipulacao_Arquivos\\Manipulacao_Arquivos.csproj|c:\\tecnicas-programacaoii\\tecnicas\\manipulacao_arquivos\\manipulacao_arquivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C950C7E-4ED1-4934-94A7-23830F13F112}|Manipulacao_Arquivos\\Manipulacao_Arquivos.csproj|solutionrelative:manipulacao_arquivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\Manipulacao_Arquivos\\Serializacao_Desserializacao_arquivo\\Program.cs",
+              "RelativeDocumentMoniker": "Serializacao_Desserializacao_arquivo\\Program.cs",
+              "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\Manipulacao_Arquivos\\Serializacao_Desserializacao_arquivo\\Program.cs",
+              "RelativeToolTip": "Serializacao_Desserializacao_arquivo\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T11:36:55.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\Manipulacao_Arquivos\\Desserializacao_Serializacao\\Program.cs",
+              "RelativeDocumentMoniker": "Desserializacao_Serializacao\\Program.cs",
+              "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\Manipulacao_Arquivos\\Desserializacao_Serializacao\\Program.cs",
+              "RelativeToolTip": "Desserializacao_Serializacao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T11:20:31.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\Manipulacao_Arquivos\\Manipulacao_Arquivos\\Program.cs",
+              "RelativeDocumentMoniker": "Manipulacao_Arquivos\\Program.cs",
+              "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\Manipulacao_Arquivos\\Manipulacao_Arquivos\\Program.cs",
+              "RelativeToolTip": "Manipulacao_Arquivos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T11:12:00.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

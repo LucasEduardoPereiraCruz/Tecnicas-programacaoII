@@ -1,0 +1,15 @@
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Manipulacao_Arquivos\bin\Debug\net9.0\Manipulacao_Arquivos.exe
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Manipulacao_Arquivos\bin\Debug\net9.0\Manipulacao_Arquivos.deps.json
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Manipulacao_Arquivos\bin\Debug\net9.0\Manipulacao_Arquivos.runtimeconfig.json
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Manipulacao_Arquivos\bin\Debug\net9.0\Manipulacao_Arquivos.dll
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Manipulacao_Arquivos\bin\Debug\net9.0\Manipulacao_Arquivos.pdb
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Manipulacao_Arquivos\obj\Debug\net9.0\Manipulacao_Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Manipulacao_Arquivos\obj\Debug\net9.0\Manipulacao_Arquivos.AssemblyInfoInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Manipulacao_Arquivos\obj\Debug\net9.0\Manipulacao_Arquivos.AssemblyInfo.cs
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Manipulacao_Arquivos\obj\Debug\net9.0\Manipulacao_Arquivos.csproj.CoreCompileInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Manipulacao_Arquivos\obj\Debug\net9.0\Manipulacao_Arquivos.sourcelink.json
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Manipulacao_Arquivos\obj\Debug\net9.0\Manipulacao_Arquivos.dll
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Manipulacao_Arquivos\obj\Debug\net9.0\refint\Manipulacao_Arquivos.dll
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Manipulacao_Arquivos\obj\Debug\net9.0\Manipulacao_Arquivos.pdb
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Manipulacao_Arquivos\obj\Debug\net9.0\Manipulacao_Arquivos.genruntimeconfig.cache
+C:\Tecnicas-programacaoII\tecnicas\Manipulacao_Arquivos\Manipulacao_Arquivos\obj\Debug\net9.0\ref\Manipulacao_Arquivos.dll
