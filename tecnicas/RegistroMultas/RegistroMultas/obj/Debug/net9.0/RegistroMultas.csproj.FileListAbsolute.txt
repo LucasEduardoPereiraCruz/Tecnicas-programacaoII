@@ -1,0 +1,15 @@
+C:\Tecnicas-programacaoII\tecnicas\RegistroMultas\RegistroMultas\bin\Debug\net9.0\RegistroMultas.exe
+C:\Tecnicas-programacaoII\tecnicas\RegistroMultas\RegistroMultas\bin\Debug\net9.0\RegistroMultas.deps.json
+C:\Tecnicas-programacaoII\tecnicas\RegistroMultas\RegistroMultas\bin\Debug\net9.0\RegistroMultas.runtimeconfig.json
+C:\Tecnicas-programacaoII\tecnicas\RegistroMultas\RegistroMultas\bin\Debug\net9.0\RegistroMultas.dll
+C:\Tecnicas-programacaoII\tecnicas\RegistroMultas\RegistroMultas\bin\Debug\net9.0\RegistroMultas.pdb
+C:\Tecnicas-programacaoII\tecnicas\RegistroMultas\RegistroMultas\obj\Debug\net9.0\RegistroMultas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnicas-programacaoII\tecnicas\RegistroMultas\RegistroMultas\obj\Debug\net9.0\RegistroMultas.AssemblyInfoInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\RegistroMultas\RegistroMultas\obj\Debug\net9.0\RegistroMultas.AssemblyInfo.cs
+C:\Tecnicas-programacaoII\tecnicas\RegistroMultas\RegistroMultas\obj\Debug\net9.0\RegistroMultas.csproj.CoreCompileInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\RegistroMultas\RegistroMultas\obj\Debug\net9.0\RegistroMultas.sourcelink.json
+C:\Tecnicas-programacaoII\tecnicas\RegistroMultas\RegistroMultas\obj\Debug\net9.0\RegistroMultas.dll
+C:\Tecnicas-programacaoII\tecnicas\RegistroMultas\RegistroMultas\obj\Debug\net9.0\refint\RegistroMultas.dll
+C:\Tecnicas-programacaoII\tecnicas\RegistroMultas\RegistroMultas\obj\Debug\net9.0\RegistroMultas.pdb
+C:\Tecnicas-programacaoII\tecnicas\RegistroMultas\RegistroMultas\obj\Debug\net9.0\RegistroMultas.genruntimeconfig.cache
+C:\Tecnicas-programacaoII\tecnicas\RegistroMultas\RegistroMultas\obj\Debug\net9.0\ref\RegistroMultas.dll
