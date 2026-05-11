@@ -1,23 +1,61 @@
-﻿using System.Reflection.Metadata.Ecma335;
-var pessoa = new Pessoa { Nome = "Maria", Idade = 21 };
+﻿// Importa namespace relacionado a metadata
+// (nesse código ele não está sendo utilizado)
+using System.Reflection.Metadata.Ecma335;
 
-//serializar
+
+// Cria um objeto Pessoa
+var pessoa = new Pessoa
+{
+    Nome = "Maria",
+    Idade = 21
+};
+
+
+
+// SERIALIZAÇÃO
+// Converte objeto C# para JSON
 string json = System.Text.Json.JsonSerializer.Serialize(pessoa);
+
+
+// Exibe JSON gerado
 Console.WriteLine(json);
-//desserialização
+
+
+
+// DESSERIALIZAÇÃO
+
+// String JSON
 var jsonString = "{\"Nome\":\"João\",\"Idade\":25}";
 
-Pessoa pessoaDess = System.Text.Json.JsonSerializer.Deserialize<Pessoa>(jsonString);
+
+// Converte JSON para objeto Pessoa
+Pessoa pessoaDess = System.Text.Json.JsonSerializer
+    .Deserialize<Pessoa>(jsonString);
+
+
+// Exibe nome do objeto desserializado
 Console.WriteLine(pessoaDess.Nome);
 
+
+
+
+// Classe Pessoa
 public class Pessoa
 {
+    // Nome da pessoa
     public string Nome { get; set; }
+
+    // Idade da pessoa
     public int Idade { get; set; }
-    //Construtor padrão (sem argumentos obrigatório para a desserialização
+
+
+    // Construtor vazio
+    // Necessário para desserialização
     public Pessoa() { }
 
-    public Pessoa (string nome, int idade)
+
+    // Construtor com parâmetros
+    public Pessoa(string nome, int idade)
     {
         Nome = nome;
         Idade = idade;

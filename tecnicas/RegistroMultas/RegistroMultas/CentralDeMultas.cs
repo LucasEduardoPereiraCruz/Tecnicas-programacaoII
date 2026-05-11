@@ -10,12 +10,14 @@ using System.Threading.Tasks;
 namespace RegistroMultas
 {
 
+    // Delegate usado no evento
+    // Métodos inscritos precisam receber uma Multa
     public delegate void MultaHandler(Multa m);
 
     public class CentralDeMultas
     {
-         // Evento 
-         public event MultaHandler MultaRegistrada;
+        // Evento 
+        public event MultaHandler MultaRegistrada;
 
         // Lista
         public List<Multa> multas = new List<Multa>(); // vira texto JSON
@@ -23,6 +25,7 @@ namespace RegistroMultas
         // Registrar Multa
         public void Registrar(Multa m)
         {
+            // Adiciona multa na lista
             multas.Add(m);
 
             Console.WriteLine("Multa Registrada");
@@ -34,8 +37,10 @@ namespace RegistroMultas
         // Salvar em JSON
         public void SalvarJson(string caminho)
         {
+            // Serialize converte objeto C# em JSON
             string json = JsonSerializer.Serialize(multas); // Converte em Json
 
+            // Cria/escreve arquivo JSON
             File.WriteAllText(caminho, json);
         }
 
@@ -52,8 +57,8 @@ namespace RegistroMultas
 
 
                 // Converte o texto JSON novamente para uma Lista de Multa
-                //  Deserialize = transformar texto JSON em objeto C#
-                multas = JsonSerializer.Deserialize<List<Multa>>(json); 
+                // Deserialize = transformar texto JSON em objeto C#
+                multas = JsonSerializer.Deserialize<List<Multa>>(json);
             }
         }
     }

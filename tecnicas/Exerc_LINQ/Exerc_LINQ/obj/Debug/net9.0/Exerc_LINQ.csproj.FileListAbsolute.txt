@@ -1,0 +1,15 @@
+C:\Tecnicas-programacaoII\tecnicas\Exerc_LINQ\Exerc_LINQ\bin\Debug\net9.0\Exerc_LINQ.exe
+C:\Tecnicas-programacaoII\tecnicas\Exerc_LINQ\Exerc_LINQ\bin\Debug\net9.0\Exerc_LINQ.deps.json
+C:\Tecnicas-programacaoII\tecnicas\Exerc_LINQ\Exerc_LINQ\bin\Debug\net9.0\Exerc_LINQ.runtimeconfig.json
+C:\Tecnicas-programacaoII\tecnicas\Exerc_LINQ\Exerc_LINQ\bin\Debug\net9.0\Exerc_LINQ.dll
+C:\Tecnicas-programacaoII\tecnicas\Exerc_LINQ\Exerc_LINQ\bin\Debug\net9.0\Exerc_LINQ.pdb
+C:\Tecnicas-programacaoII\tecnicas\Exerc_LINQ\Exerc_LINQ\obj\Debug\net9.0\Exerc_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnicas-programacaoII\tecnicas\Exerc_LINQ\Exerc_LINQ\obj\Debug\net9.0\Exerc_LINQ.AssemblyInfoInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Exerc_LINQ\Exerc_LINQ\obj\Debug\net9.0\Exerc_LINQ.AssemblyInfo.cs
+C:\Tecnicas-programacaoII\tecnicas\Exerc_LINQ\Exerc_LINQ\obj\Debug\net9.0\Exerc_LINQ.csproj.CoreCompileInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\Exerc_LINQ\Exerc_LINQ\obj\Debug\net9.0\Exerc_LINQ.sourcelink.json
+C:\Tecnicas-programacaoII\tecnicas\Exerc_LINQ\Exerc_LINQ\obj\Debug\net9.0\Exerc_LINQ.dll
+C:\Tecnicas-programacaoII\tecnicas\Exerc_LINQ\Exerc_LINQ\obj\Debug\net9.0\refint\Exerc_LINQ.dll
+C:\Tecnicas-programacaoII\tecnicas\Exerc_LINQ\Exerc_LINQ\obj\Debug\net9.0\Exerc_LINQ.pdb
+C:\Tecnicas-programacaoII\tecnicas\Exerc_LINQ\Exerc_LINQ\obj\Debug\net9.0\Exerc_LINQ.genruntimeconfig.cache
+C:\Tecnicas-programacaoII\tecnicas\Exerc_LINQ\Exerc_LINQ\obj\Debug\net9.0\ref\Exerc_LINQ.dll

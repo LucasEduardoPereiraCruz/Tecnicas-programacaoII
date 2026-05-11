@@ -21,14 +21,19 @@ forn2.Produtos.Add(prod2);
 forn2.Produtos.Add(prod3);
 
 Console.WriteLine($"Nome: {prod1.Nome}\nPreoço: {prod1.Preco}\nCategoria: {prod1.CategoriaProduto.Descritivo}");
-foreach(var dado in prod1.Fornecedores)
+
+// Percorre fornecedores do produto
+foreach (var dado in prod1.Fornecedores)
 {
     Console.WriteLine($"Razão Social: {dado.RazaoSocial}\nCNPJ: {dado.Cnpj}");
 }
 
 Console.WriteLine("Outro lado do bilateral");
+
 Console.WriteLine($"Razão Social: {forn2.RazaoSocial} - CNPJ: {forn2.Cnpj}");
-foreach(var dado in forn2.Produtos)
+
+// Percorre produtos do fornecedor
+foreach (var dado in forn2.Produtos)
 {
     Console.WriteLine($"Nome: {dado.Nome} - Preço: {dado.Preco}");
 }
@@ -46,19 +51,22 @@ public class Produto
 
     public double Preco { get; set; }
 
+    // Produto possui uma categoria
     public Categoria CategoriaProduto { get; set; }
 
+    // Lista de fornecedores do produto
     public List<Fornecedor> Fornecedores = new List<Fornecedor>();
-    
+
 }
 
 public class Categoria
 {
     public Categoria(string descritivo)
     {
-        Descritivo = descritivo; 
+        Descritivo = descritivo;
     }
 
+    // Nome/descritivo da categoria
     public string? Descritivo { get; set; }
 }
 
@@ -71,6 +79,9 @@ public class Fornecedor
     }
 
     public string? RazaoSocial { get; set; }
+
     public string? Cnpj { get; set; }
-    public List <Produto> Produtos = new List<Produto>();
+
+    // Lista de produtos do fornecedor
+    public List<Produto> Produtos = new List<Produto>();
 }

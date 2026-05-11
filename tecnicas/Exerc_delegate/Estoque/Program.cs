@@ -1,56 +1,88 @@
 ﻿using System;
 
+
+// Classe Estoque
 class Estoque
 {
+    // Nome do produto
     public string Nome { get; set; }
+
+    // Quantidade em estoque
     public int Quantidade { get; set; }
 
-    // Delegate pré-definido
+
+    // Evento usando Action
+    // Action<string, int> significa:
+    // método sem retorno que recebe:
+    // string + int
     public event Action<string, int> EstoqueBaixo;
 
-    // Verifica se está baixo
+
+    // Método que verifica estoque
     public void VerificarEstoque()
     {
+        // Verifica se estoque está baixo
         if (Quantidade < 5)
         {
-            // Dispara o evento
+            // Dispara evento
             EstoqueBaixo?.Invoke(Nome, Quantidade);
         }
     }
 }
 
+
+
+
+// Classe responsável pelo alerta
 class Alerta
 {
-    // método que será chamado quando o evento acontecer
+    // Método executado quando evento acontecer
     public void MostrarAlerta(string nome, int quantidade)
     {
-        Console.WriteLine("ALERTA: " + nome + " com quantidade " + quantidade);
+        Console.WriteLine(
+            "ALERTA: " + nome + " com quantidade " + quantidade
+        );
     }
 }
+
+
+
 
 class Program
 {
     static void Main()
     {
-        // cria o produto
+        // Cria produto
         Estoque produto = new Estoque();
-        // cria quem vai mostrar o alerta
+
+        // Cria alerta
         Alerta alerta = new Alerta();
 
-        produto.Nome = "Mouse";
-        produto.Quantidade = 10; // Quantidade inicial 
 
-        // Se inscreve no evento
+        // Define nome do produto
+        produto.Nome = "Mouse";
+
+        // Define quantidade inicial
+        produto.Quantidade = 10;
+
+
+        // Inscreve método no evento
         produto.EstoqueBaixo += alerta.MostrarAlerta;
 
-        // Simulando queda no estoque
-        produto.Quantidade = 3; // Agora tenho 3 mouses
-        // Verifica e dispara o evento
+
+        // Simula redução do estoque
+        produto.Quantidade = 3;
+
+
+        // Verifica estoque
         produto.VerificarEstoque();
 
-        // Espera tecla pra fechar
+
+        // Aguarda tecla
         Console.ReadKey();
     }
 }
 
-// ============== Se eu tivesse mais que 5, não aparece alerta nenhum ============== // 
+
+// Se estoque for maior ou igual a 5,
+// nenhum alerta será exibido

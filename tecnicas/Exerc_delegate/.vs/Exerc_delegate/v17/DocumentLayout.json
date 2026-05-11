@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Tecnicas-programacaoII\\tecnicas\\Exerc_delegate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29C612FB-A05B-4421-97F2-ECCB5A36E012}|Operacoes_delegate\\Operacoes_delegate.csproj|c:\\tecnicas-programacaoii\\tecnicas\\exerc_delegate\\operacoes_delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29C612FB-A05B-4421-97F2-ECCB5A36E012}|Operacoes_delegate\\Operacoes_delegate.csproj|solutionrelative:operacoes_delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFC82B07-82DE-4BCF-9CB4-4A090AFCECCB}|Estoque\\Estoque.csproj|c:\\tecnicas-programacaoii\\tecnicas\\exerc_delegate\\estoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC82B07-82DE-4BCF-9CB4-4A090AFCECCB}|Estoque\\Estoque.csproj|solutionrelative:estoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86424ECB-6776-4946-BD54-9D15DF5B5BC6}|AlarmeTemperatura\\AlarmeTemperatura.csproj|c:\\tecnicas-programacaoii\\tecnicas\\exerc_delegate\\alarmetemperatura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86424ECB-6776-4946-BD54-9D15DF5B5BC6}|AlarmeTemperatura\\AlarmeTemperatura.csproj|solutionrelative:alarmetemperatura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29C612FB-A05B-4421-97F2-ECCB5A36E012}|Operacoes_delegate\\Operacoes_delegate.csproj|c:\\tecnicas-programacaoii\\tecnicas\\exerc_delegate\\operacoes_delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C612FB-A05B-4421-97F2-ECCB5A36E012}|Operacoes_delegate\\Operacoes_delegate.csproj|solutionrelative:operacoes_delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65DF0D91-1AAF-472F-A04C-D8DE83F4E889}|ContagemCliques\\ContagemCliques.csproj|c:\\tecnicas-programacaoii\\tecnicas\\exerc_delegate\\contagemcliques\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65DF0D91-1AAF-472F-A04C-D8DE83F4E889}|ContagemCliques\\ContagemCliques.csproj|solutionrelative:contagemcliques\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFC82B07-82DE-4BCF-9CB4-4A090AFCECCB}|Estoque\\Estoque.csproj|c:\\tecnicas-programacaoii\\tecnicas\\exerc_delegate\\estoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFC82B07-82DE-4BCF-9CB4-4A090AFCECCB}|Estoque\\Estoque.csproj|solutionrelative:estoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86424ECB-6776-4946-BD54-9D15DF5B5BC6}|AlarmeTemperatura\\AlarmeTemperatura.csproj|c:\\tecnicas-programacaoii\\tecnicas\\exerc_delegate\\alarmetemperatura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86424ECB-6776-4946-BD54-9D15DF5B5BC6}|AlarmeTemperatura\\AlarmeTemperatura.csproj|solutionrelative:alarmetemperatura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,30 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\Exerc_delegate\\Operacoes_delegate\\Program.cs",
               "RelativeDocumentMoniker": "Operacoes_delegate\\Program.cs",
               "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\Exerc_delegate\\Operacoes_delegate\\Program.cs",
               "RelativeToolTip": "Operacoes_delegate\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAE0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-11T14:47:50.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\Exerc_delegate\\Estoque\\Program.cs",
               "RelativeDocumentMoniker": "Estoque\\Program.cs",
               "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\Exerc_delegate\\Estoque\\Program.cs",
               "RelativeToolTip": "Estoque\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwDcAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-11T15:41:54.036Z",
               "EditorCaption": ""
@@ -62,23 +66,21 @@
               "RelativeDocumentMoniker": "ContagemCliques\\Program.cs",
               "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\Exerc_delegate\\ContagemCliques\\Program.cs",
               "RelativeToolTip": "ContagemCliques\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAD4vyQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T15:21:03.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T15:21:03.048Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\Exerc_delegate\\AlarmeTemperatura\\Program.cs",
               "RelativeDocumentMoniker": "AlarmeTemperatura\\Program.cs",
               "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\Exerc_delegate\\AlarmeTemperatura\\Program.cs",
               "RelativeToolTip": "AlarmeTemperatura\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCYAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwv2UAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T14:49:33.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T14:49:33.49Z"
             }
           ]
         }

@@ -8,9 +8,16 @@ namespace RegistroMultas
 {
     public class Multa
     {
-        public string Placa {  get; set; }
-        public string TipoInfracao {  get; set; }
-        public double Valor {  get; set; }
-        public DateTime Data {  get; set; }
+        // Placa do veículo
+        public string Placa { get; set; }
+
+        // Tipo da infração
+        public string TipoInfracao { get; set; }
+
+        // Valor da multa
+        public double Valor { get; set; }
+
+        // Data da multa
+        public DateTime Data { get; set; }
     }
 }

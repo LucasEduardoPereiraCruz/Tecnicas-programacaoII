@@ -1,42 +1,72 @@
-﻿using System.Collections;
+﻿// Importa o namespace que contém a classe ArrayList
+using System.Collections;
 
+// Cria um ArrayList com capacidade inicial de 5 elementos
 ArrayList lista = new ArrayList(5);
-ArrayList listb = new (2);
+
+// Cria outro ArrayList com capacidade inicial de 2 elementos
+ArrayList listb = new(2);
+
+// Adiciona a string "Maria" ao ArrayList
 lista.Add("Maria");
+
+// Adiciona um valor double ao ArrayList
+// ArrayList aceita qualquer tipo de dado
 lista.Add(1.65);
+
+// Adiciona um valor booleano
 lista.Add(true);
+
+// Adiciona um valor nulo
 lista.Add(null);
-lista.Insert(3, 65); // Acrescenta um item na sua lista, no índice específicado - 3
 
+// Insere o valor 65 no índice 3 da lista
+// Os elementos após esse índice são deslocados para frente
+lista.Insert(3, 65);
+
+// Cria um array de inteiros
 int[] array1 = { 1, 2, 3 };
-// Add uma coleção no final do arraylist 
-lista.AddRange(array1);
-// Add uma coleção a partir do indice especificado 
-lista.InsertRange(0, array1); 
 
-// Remove - remove o elemento específico da lista da ArrayList
+// Adiciona todos os elementos do array no final do ArrayList
+lista.AddRange(array1);
+
+// Insere os elementos do array a partir do índice 0
+// Os itens antigos são deslocados
+lista.InsertRange(0, array1);
+
+// Remove o elemento "Maria" da lista
 lista.Remove("Maria");
 
-// RemoveAt - remove um item específicado 
+// Remove o elemento que está no índice 1
 lista.RemoveAt(1);
 
-// RemoveRange - iniciar o remove de um indice e a partir dele 
+// Remove 4 elementos começando pelo índice 2
 lista.RemoveRange(2, 4);
 
-
-foreach(var dado in lista)
+// Percorre todos os elementos da lista
+foreach (var dado in lista)
 {
+    // Exibe cada elemento no console
     Console.WriteLine(dado);
 }
 
-var lista3 = new ArrayList() { "Maria", "Paulo", "Ana" }; 
+// Cria um ArrayList já inicializado com valores
+var lista3 = new ArrayList() { "Maria", "Paulo", "Ana" };
+
+// Ordena os elementos em ordem alfabética
 lista3.Sort();
+
+// Verifica se existe o elemento "a" dentro da lista
+// OBS: diferencia maiúsculas e minúsculas
 var res1 = lista3.Contains("a");
 
+// Percorre a lista já ordenada
 foreach (var dado in lista3)
 {
     Console.WriteLine(dado);
 }
+
+// Verifica o resultado do Contains
 if (res1)
 {
     Console.WriteLine("Contém");
@@ -45,7 +75,12 @@ else
 {
     Console.WriteLine("Não contém");
 }
+
+// Remove todos os elementos da lista
 lista3.Clear();
+
+// Percorre a lista novamente
+// Não irá mostrar nada pois a lista foi limpa
 foreach (var dado in lista3)
 {
     Console.WriteLine(dado);

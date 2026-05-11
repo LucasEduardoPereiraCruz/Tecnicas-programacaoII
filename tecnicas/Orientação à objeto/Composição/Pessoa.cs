@@ -1,5 +1,4 @@
-﻿
-namespace Composição
+﻿namespace Composição
 {
 
     class Pessoa
@@ -7,6 +6,8 @@ namespace Composição
         public Pessoa(string nome, int ddd, string numero)
         {
             Nome = nome;
+
+            // Cria celular junto da pessoa
             Celulares.Add(new Celular(ddd, numero));
         }
 
@@ -18,11 +19,13 @@ namespace Composição
 
         public void SetCelular(int ddd, string numero)
         {
+            // Adiciona novo celular na lista
             Celulares.Add(new Celular(ddd, numero));
         }
 
         public string? Nome { get; set; }
 
+        // Lista de celulares da pessoa
         public List<Celular> Celulares = new List<Celular>();
     }
 
@@ -38,12 +41,16 @@ namespace Composição
         {
             DDD = ddd;
             Numero = numero;
+
+            // Define dono do celular
             ProprietarioCelular = pessoa;
         }
 
         public int DDD { get; set; }
+
         public string Numero { get; set; }
 
+        // Pessoa dona do celular
         public Pessoa ProprietarioCelular { get; set; }
     }
 }

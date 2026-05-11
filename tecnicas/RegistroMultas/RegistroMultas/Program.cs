@@ -17,7 +17,7 @@ class Program
             Placa = "ABC1234",
             TipoInfracao = "Excesso de velocidade",
             Valor = 700,
-            Data = DateTime.Now
+            Data = DateTime.Now // Pega data e hora atual
         });
 
         // SEGUNDA MULTA
@@ -50,12 +50,16 @@ class Program
         // Salvar JSON
         central.SalvarJson("multas.json");
 
-        // LINQ
+
+        // LINQ !!!!!
+
+        // Filtra multas acima de 500
         var multasGraves = central.multas
-            .Where(m => m.Valor > 500);
+            .Where(m => m.Valor > 500); // "Pega somente as multas cujo valor seja maior que 500" /  // .Where → filtra elementos da lista.
 
         Console.WriteLine("\nMULTAS ACIMA DE 500:\n");
 
+        // Percorre multas filtradas
         foreach (var m in multasGraves)
         {
             Console.WriteLine($"Placa: {m.Placa}");
@@ -68,6 +72,7 @@ class Program
     // Método do evento
     static void VerificarMultaGrave(Multa m)
     {
+        // Verifica se multa é maior que 500
         if (m.Valor > 500)
         {
             Console.WriteLine("MULTA GRAVE DETECTADA!");

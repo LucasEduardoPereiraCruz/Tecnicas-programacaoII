@@ -6,8 +6,8 @@ Console.WriteLine("Hello, World!");
 
 //Usando 
 
-
 Produto prod1 = new Produto();
+
 prod1.Nome = "Caderno";
 prod1.Preco = 50.90;
 
@@ -25,19 +25,23 @@ Console.WriteLine($"Preço: {prod2.Preco}");
 
 // objeto de Produto2
 Produto2 prod3 = new("Borracha", 4.60, 100);
+
 prod3.Exibir();
 
 Console.ReadKey(); // Pausar o programa até que o usuário pressione uma tecla
+
 // Declarando 
 
 public class Produto
 {
 
-    public Produto(){} // Construtor padrão que não recebe parâmetros 
+    public Produto() { } // Construtor padrão que não recebe parâmetros 
 
     public Produto(string nome, double Preco) // construtor atalho "ctor"
     {
         Nome = nome;
+
+        // this referencia atributo da classe
         this.Preco = Preco;
     }
 

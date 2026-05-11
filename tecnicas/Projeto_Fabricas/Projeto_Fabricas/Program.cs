@@ -9,21 +9,26 @@ namespace Projeto_Fabricas
 {
     internal class Program
     {
+        // Main assíncrono
         static async Task Main(string[] args)
         {
             Fabrica fabrica = new Fabrica();
+
             fabrica.Nome = "Fabrica Fatec";
 
             // Criar equipamentos
             Equipamento e1 = new Equipamento
             {
                 Nome = "Maquina A",
+
+                // Pega data e hora atual
                 DataFabricacao = DateTime.Now
             };
 
             Equipamento e2 = new Equipamento
             {
                 Nome = "Maquina B",
+
                 DataFabricacao = DateTime.Now
             };
 
@@ -31,14 +36,18 @@ namespace Projeto_Fabricas
             Maquina m1 = new Maquina
             {
                 Modelo = "ABC123",
+
                 HoraOperacao = "10h",
+
                 Equipamento = e1
             };
 
             Maquina m2 = new Maquina
             {
                 Modelo = "XYZ999",
+
                 HoraOperacao = "8h",
+
                 Equipamento = e2
             };
 
@@ -48,6 +57,7 @@ namespace Projeto_Fabricas
 
             // Listar
             Console.WriteLine("Máquinas cadastradas:");
+
             fabrica.ListarMaquinas();
 
             // Operador
@@ -58,15 +68,18 @@ namespace Projeto_Fabricas
 
             try
             {
+                // Tenta operar máquina existente
                 await operador.OperarMaquinaAsync(fabrica, "ABC123");
             }
             catch (Exception ex)
             {
+                // Exibe mensagem do erro
                 Console.WriteLine(ex.Message);
             }
 
             try
             {
+                // Tenta operar máquina inexistente
                 await operador.OperarMaquinaAsync(fabrica, "ABC12345");
             }
             catch (Exception ex)
@@ -74,6 +87,7 @@ namespace Projeto_Fabricas
                 Console.WriteLine(ex.Message);
             }
 
+            // Espera usuário apertar Enter
             Console.ReadLine();
         }
     }

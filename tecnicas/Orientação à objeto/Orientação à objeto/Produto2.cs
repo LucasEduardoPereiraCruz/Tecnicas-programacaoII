@@ -8,31 +8,38 @@ namespace Orientação_à_objeto
 {
     class Produto2
     {
-        public Produto2(string ? nome, double preco, int estoqueminimo)
+        public Produto2(string? nome, double preco, int estoqueminimo)
         {
             Nome = nome;
             Preco = preco;
             EstoqueMin = estoqueminimo;
         }
 
-        public void Exibir() 
+        public void Exibir()
         {
             Console.WriteLine($"{Nome}\n{Preco.ToString("c")}\n{PrecoFinal.ToString("c")}\n{minimo}");
         }
 
 
         private string? nome;
-        public string? Nome {
+
+        public string? Nome
+        {
+
             get { return nome?.ToUpper(); } //Modificamos o get pq não queremos mais o padrão 
-            set { nome = value; }    
+
+            set { nome = value; }
         }
 
         private double preco;
 
-        public double Preco { 
+        public double Preco
+        {
             get { return preco; }
+
             set
             {
+                // Valida preço mínimo
                 if (preco < 5.00)
                 {
                     preco = 5.00;
@@ -47,17 +54,27 @@ namespace Orientação_à_objeto
 
         private double desconto = 0.05;
 
-        public double Desconto {
-            get { return  desconto; } 
+        public double Desconto
+        {
+
+            // Apenas leitura
+            get { return desconto; }
         }
 
-        public double PrecoFinal {
+        public double PrecoFinal
+        {
+
+            // Calcula preço com desconto
             get { return Preco - (Preco * desconto); }
         }
 
-        private int minimo;
-        public int EstoqueMin {
+        private int minimo; // "Só a própria classe pode acessar" / // Dentro da classe Produto2 → pode usar
+
+        public int EstoqueMin
+        {
+
             set { minimo = value; }
+
             // Açgo só possui set quando for sensível, algo que ningúem pode acessar 
         }
     }

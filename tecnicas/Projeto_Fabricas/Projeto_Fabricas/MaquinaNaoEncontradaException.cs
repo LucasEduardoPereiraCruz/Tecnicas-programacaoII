@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace Projeto_Fabricas
 {
+    // Exception personalizada
     public class MaquinaNaoEncontradaException : Exception
     {
+        // Envia mensagem para classe base Exception
         public MaquinaNaoEncontradaException(string mensagem) : base(mensagem)
         {
         }

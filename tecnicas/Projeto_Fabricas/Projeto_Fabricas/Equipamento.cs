@@ -9,8 +9,11 @@ namespace Projeto_Fabricas
 {
     public class Equipamento
     {
+        // Nome do equipamento
         public string Nome { get; set; }
+
+        // Data de fabricação do equipamento
         public DateTime DataFabricacao { get; set; }
 
-    }   
+    }
 }

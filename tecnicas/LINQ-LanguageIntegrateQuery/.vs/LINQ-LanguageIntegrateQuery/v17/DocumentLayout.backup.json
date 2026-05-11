@@ -22,8 +22,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,7 +36,7 @@
               "RelativeDocumentMoniker": "Exemplo3\\Program.cs",
               "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\LINQ-LanguageIntegrateQuery\\Exemplo3\\Program.cs",
               "RelativeToolTip": "Exemplo3\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAACAAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswCcAAACAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T11:19:35.507Z",
               "EditorCaption": ""
@@ -58,7 +62,7 @@
               "RelativeDocumentMoniker": "Exemplo1\\Program.cs",
               "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\LINQ-LanguageIntegrateQuery\\Exemplo1\\Program.cs",
               "RelativeToolTip": "Exemplo1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T11:12:07.852Z",
               "EditorCaption": ""
