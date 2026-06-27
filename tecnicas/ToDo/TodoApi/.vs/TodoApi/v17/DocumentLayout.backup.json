@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Tecnicas-programacaoII\\tecnicas\\ToDo\\TodoApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|c:\\tecnicas-programacaoii\\tecnicas\\todo\\todoapi\\repositories\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|solutionrelative:repositories\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|c:\\tecnicas-programacaoii\\tecnicas\\todo\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|c:\\tecnicas-programacaoii\\tecnicas\\todo\\todoapi\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|solutionrelative:models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|c:\\tecnicas-programacaoii\\tecnicas\\todo\\todoapi\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|solutionrelative:controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|c:\\tecnicas-programacaoii\\tecnicas\\todo\\todoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|c:\\tecnicas-programacaoii\\tecnicas\\todo\\todoapi\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|solutionrelative:controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|c:\\tecnicas-programacaoii\\tecnicas\\todo\\todoapi\\repositories\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|solutionrelative:repositories\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|c:\\tecnicas-programacaoii\\tecnicas\\todo\\todoapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|c:\\tecnicas-programacaoii\\tecnicas\\todo\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|c:\\tecnicas-programacaoii\\tecnicas\\todo\\todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|c:\\tecnicas-programacaoii\\tecnicas\\todo\\todoapi\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|solutionrelative:models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|c:\\tecnicas-programacaoii\\tecnicas\\todo\\todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -38,11 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\ToDo\\TodoApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\ToDo\\TodoApi\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T01:41:28.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\ToDo\\TodoApi\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
@@ -59,13 +76,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\ToDo\\TodoApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\ToDo\\TodoApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T13:41:11.621Z",
               "EditorCaption": ""
@@ -78,26 +95,27 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\ToDo\\TodoApi\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-18T13:38:34.149Z"
+              "WhenOpened": "2026-05-18T13:38:34.149Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TarefaRepository.cs",
               "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\ToDo\\TodoApi\\Repositories\\TarefaRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\TarefaRepository.cs",
               "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\ToDo\\TodoApi\\Repositories\\TarefaRepository.cs",
               "RelativeToolTip": "Repositories\\TarefaRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCMAAABdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T12:49:56.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Tarefa.cs",
               "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\ToDo\\TodoApi\\Models\\Tarefa.cs",
               "RelativeDocumentMoniker": "Models\\Tarefa.cs",
@@ -110,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "TarefasController.cs",
               "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\ToDo\\TodoApi\\Controllers\\TarefasController.cs",
               "RelativeDocumentMoniker": "Controllers\\TarefasController.cs",
@@ -123,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TodoApi.csproj",
               "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\ToDo\\TodoApi\\TodoApi.csproj",
               "RelativeDocumentMoniker": "TodoApi.csproj",

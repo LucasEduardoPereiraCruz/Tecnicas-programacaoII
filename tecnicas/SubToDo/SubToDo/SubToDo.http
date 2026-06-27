@@ -1,0 +1,6 @@
+@SubToDo_HostAddress = http://localhost:5017
+
+GET {{SubToDo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

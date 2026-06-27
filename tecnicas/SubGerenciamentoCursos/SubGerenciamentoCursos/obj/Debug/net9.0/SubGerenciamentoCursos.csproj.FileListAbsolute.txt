@@ -1,0 +1,15 @@
+C:\Tecnicas-programacaoII\tecnicas\SubGerenciamentoCursos\SubGerenciamentoCursos\bin\Debug\net9.0\SubGerenciamentoCursos.exe
+C:\Tecnicas-programacaoII\tecnicas\SubGerenciamentoCursos\SubGerenciamentoCursos\bin\Debug\net9.0\SubGerenciamentoCursos.deps.json
+C:\Tecnicas-programacaoII\tecnicas\SubGerenciamentoCursos\SubGerenciamentoCursos\bin\Debug\net9.0\SubGerenciamentoCursos.runtimeconfig.json
+C:\Tecnicas-programacaoII\tecnicas\SubGerenciamentoCursos\SubGerenciamentoCursos\bin\Debug\net9.0\SubGerenciamentoCursos.dll
+C:\Tecnicas-programacaoII\tecnicas\SubGerenciamentoCursos\SubGerenciamentoCursos\bin\Debug\net9.0\SubGerenciamentoCursos.pdb
+C:\Tecnicas-programacaoII\tecnicas\SubGerenciamentoCursos\SubGerenciamentoCursos\obj\Debug\net9.0\SubGerenciamentoCursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnicas-programacaoII\tecnicas\SubGerenciamentoCursos\SubGerenciamentoCursos\obj\Debug\net9.0\SubGerenciamentoCursos.AssemblyInfoInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\SubGerenciamentoCursos\SubGerenciamentoCursos\obj\Debug\net9.0\SubGerenciamentoCursos.AssemblyInfo.cs
+C:\Tecnicas-programacaoII\tecnicas\SubGerenciamentoCursos\SubGerenciamentoCursos\obj\Debug\net9.0\SubGerenciamentoCursos.csproj.CoreCompileInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\SubGerenciamentoCursos\SubGerenciamentoCursos\obj\Debug\net9.0\SubGerenciamentoCursos.sourcelink.json
+C:\Tecnicas-programacaoII\tecnicas\SubGerenciamentoCursos\SubGerenciamentoCursos\obj\Debug\net9.0\SubGerenciamentoCursos.dll
+C:\Tecnicas-programacaoII\tecnicas\SubGerenciamentoCursos\SubGerenciamentoCursos\obj\Debug\net9.0\refint\SubGerenciamentoCursos.dll
+C:\Tecnicas-programacaoII\tecnicas\SubGerenciamentoCursos\SubGerenciamentoCursos\obj\Debug\net9.0\SubGerenciamentoCursos.pdb
+C:\Tecnicas-programacaoII\tecnicas\SubGerenciamentoCursos\SubGerenciamentoCursos\obj\Debug\net9.0\SubGerenciamentoCursos.genruntimeconfig.cache
+C:\Tecnicas-programacaoII\tecnicas\SubGerenciamentoCursos\SubGerenciamentoCursos\obj\Debug\net9.0\ref\SubGerenciamentoCursos.dll

@@ -7,28 +7,28 @@
       "RelativeMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|solutionrelative:controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|c:\\tecnicas-programacaoii\\tecnicas\\todo\\todoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|c:\\tecnicas-programacaoii\\tecnicas\\todo\\todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|c:\\tecnicas-programacaoii\\tecnicas\\todo\\todoapi\\repositories\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|solutionrelative:repositories\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|c:\\tecnicas-programacaoii\\tecnicas\\todo\\todoapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|c:\\tecnicas-programacaoii\\tecnicas\\todo\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|c:\\tecnicas-programacaoii\\tecnicas\\todo\\todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|c:\\tecnicas-programacaoii\\tecnicas\\todo\\todoapi\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|solutionrelative:models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|c:\\tecnicas-programacaoii\\tecnicas\\todo\\todoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|c:\\tecnicas-programacaoii\\tecnicas\\todo\\todoapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28EDFFF5-18E2-4FCE-B4DE-90C25C34B33A}|TodoApi.csproj|c:\\tecnicas-programacaoii\\tecnicas\\todo\\todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -45,8 +45,12 @@
           "SelectedChildIndex": 7,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\ToDo\\TodoApi\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",
@@ -54,12 +58,11 @@
               "RelativeToolTip": "WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T01:41:28.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-01T01:41:28.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\ToDo\\TodoApi\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
@@ -67,16 +70,11 @@
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T00:37:30.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2026-06-01T00:37:30.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\ToDo\\TodoApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -89,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\ToDo\\TodoApi\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -108,20 +106,20 @@
               "RelativeDocumentMoniker": "Repositories\\TarefaRepository.cs",
               "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\ToDo\\TodoApi\\Repositories\\TarefaRepository.cs",
               "RelativeToolTip": "Repositories\\TarefaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAB2AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T12:49:56.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Tarefa.cs",
               "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\ToDo\\TodoApi\\Models\\Tarefa.cs",
               "RelativeDocumentMoniker": "Models\\Tarefa.cs",
               "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\ToDo\\TodoApi\\Models\\Tarefa.cs",
               "RelativeToolTip": "Models\\Tarefa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T12:49:35.665Z",
               "EditorCaption": ""
@@ -134,7 +132,7 @@
               "RelativeDocumentMoniker": "Controllers\\TarefasController.cs",
               "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\ToDo\\TodoApi\\Controllers\\TarefasController.cs",
               "RelativeToolTip": "Controllers\\TarefasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T12:49:13.336Z",
               "EditorCaption": ""

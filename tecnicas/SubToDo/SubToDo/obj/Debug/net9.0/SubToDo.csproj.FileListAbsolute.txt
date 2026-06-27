@@ -1,0 +1,9 @@
+C:\Tecnicas-programacaoII\tecnicas\SubToDo\SubToDo\obj\Debug\net9.0\SubToDo.csproj.AssemblyReference.cache
+C:\Tecnicas-programacaoII\tecnicas\SubToDo\SubToDo\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Tecnicas-programacaoII\tecnicas\SubToDo\SubToDo\obj\Debug\net9.0\SubToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnicas-programacaoII\tecnicas\SubToDo\SubToDo\obj\Debug\net9.0\SubToDo.AssemblyInfoInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\SubToDo\SubToDo\obj\Debug\net9.0\SubToDo.AssemblyInfo.cs
+C:\Tecnicas-programacaoII\tecnicas\SubToDo\SubToDo\obj\Debug\net9.0\SubToDo.csproj.CoreCompileInputs.cache
+C:\Tecnicas-programacaoII\tecnicas\SubToDo\SubToDo\obj\Debug\net9.0\SubToDo.MvcApplicationPartsAssemblyInfo.cs
+C:\Tecnicas-programacaoII\tecnicas\SubToDo\SubToDo\obj\Debug\net9.0\SubToDo.MvcApplicationPartsAssemblyInfo.cache
+C:\Tecnicas-programacaoII\tecnicas\SubToDo\SubToDo\obj\Debug\net9.0\SubToDo.sourcelink.json

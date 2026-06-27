@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tecnicas-programacaoII\\tecnicas\\SubToDo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96E10135-170E-4C41-BC98-CB8098A87A3B}|SubToDo\\SubToDo.csproj|c:\\tecnicas-programacaoii\\tecnicas\\subtodo\\subtodo\\controllers\\servicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E10135-170E-4C41-BC98-CB8098A87A3B}|SubToDo\\SubToDo.csproj|solutionrelative:subtodo\\controllers\\servicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E10135-170E-4C41-BC98-CB8098A87A3B}|SubToDo\\SubToDo.csproj|c:\\tecnicas-programacaoii\\tecnicas\\subtodo\\subtodo\\repositories\\servicorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E10135-170E-4C41-BC98-CB8098A87A3B}|SubToDo\\SubToDo.csproj|solutionrelative:subtodo\\repositories\\servicorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E10135-170E-4C41-BC98-CB8098A87A3B}|SubToDo\\SubToDo.csproj|c:\\tecnicas-programacaoii\\tecnicas\\subtodo\\subtodo\\model\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E10135-170E-4C41-BC98-CB8098A87A3B}|SubToDo\\SubToDo.csproj|solutionrelative:subtodo\\model\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E10135-170E-4C41-BC98-CB8098A87A3B}|SubToDo\\SubToDo.csproj|c:\\tecnicas-programacaoii\\tecnicas\\subtodo\\subtodo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96E10135-170E-4C41-BC98-CB8098A87A3B}|SubToDo\\SubToDo.csproj|solutionrelative:subtodo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServicosController.cs",
+              "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\SubToDo\\SubToDo\\Controllers\\ServicosController.cs",
+              "RelativeDocumentMoniker": "SubToDo\\Controllers\\ServicosController.cs",
+              "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\SubToDo\\SubToDo\\Controllers\\ServicosController.cs",
+              "RelativeToolTip": "SubToDo\\Controllers\\ServicosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T14:42:32.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\SubToDo\\SubToDo\\appsettings.json",
+              "RelativeDocumentMoniker": "SubToDo\\appsettings.json",
+              "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\SubToDo\\SubToDo\\appsettings.json",
+              "RelativeToolTip": "SubToDo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-27T14:37:00.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicoRepository.cs",
+              "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\SubToDo\\SubToDo\\Repositories\\ServicoRepository.cs",
+              "RelativeDocumentMoniker": "SubToDo\\Repositories\\ServicoRepository.cs",
+              "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\SubToDo\\SubToDo\\Repositories\\ServicoRepository.cs",
+              "RelativeToolTip": "SubToDo\\Repositories\\ServicoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T14:33:16.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Servico.cs",
+              "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\SubToDo\\SubToDo\\Model\\Servico.cs",
+              "RelativeDocumentMoniker": "SubToDo\\Model\\Servico.cs",
+              "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\SubToDo\\SubToDo\\Model\\Servico.cs",
+              "RelativeToolTip": "SubToDo\\Model\\Servico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T14:26:14.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
