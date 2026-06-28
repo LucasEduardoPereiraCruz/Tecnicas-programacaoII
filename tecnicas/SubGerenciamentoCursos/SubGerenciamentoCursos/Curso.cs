@@ -31,5 +31,59 @@ namespace SubGerenciamentoCursos
             }
             Alunos.Add(aluno); // Adiciona um aluno dentro da lista
         }
-    }
-}
+
+
+        // LINQ // 
+
+        // Método para exibir os alunos de forma ordenada 
+        public List<Aluno> ObterAlunoOrdenados() // Usamos List<Aluno> pq ele vai retornar uma lista de alunos 
+        {
+            return Alunos.OrderBy(aluno => aluno.Nome).ToList(); // Aqui pegamos a lista de nomes e ordenamos por eles
+        }
+
+        
+        // Método para encontrar alunos que começam com a letra A 
+        public List<Aluno> ObterAlunosComNomeA()
+        {
+            return Alunos.Where(aluno => aluno.Nome.StartsWith("A")).ToList(); // StartsWith("A") - Começa com A 
+        }
+
+
+        // Método para ver qntdade total de alunos matriculados 
+        public int QuantidadeAlunos()
+        {
+            return Alunos.Count();
+        }
+
+
+        // EXEMPLOS USANDO OUTROS MÉTODOS (Ñ FORAM PEDIDOS)
+
+        // Método para procurar um aluno pelo nome
+        public Aluno BuscarAlunoPorNome(string nome)
+        {
+            return Alunos.FirstOrDefault(aluno => aluno.Nome == nome);
+        }
+
+
+
+
+        // Método para verificar se existe um aluno com determinado nome
+        public bool ExisteAluno(string nome)
+        {
+            return Alunos.Any(aluno => aluno.Nome == nome);
+        }
+
+
+
+
+        // Método para retornar apenas os e-mails dos alunos
+        public List<string> ObterEmails()
+        {
+            return Alunos.Select(aluno => aluno.Email).ToList();
+        }
+
+
+    } // fim da classe 
+} // fim do namespace 
+
+

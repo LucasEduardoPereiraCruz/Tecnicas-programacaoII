@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Tecnicas-programacaoII\\tecnicas\\LINQ-LanguageIntegrateQuery\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CD0EE6F3-13F5-469E-9947-D40908D51E56}|Exemplo1\\Exemplo1.csproj|c:\\tecnicas-programacaoii\\tecnicas\\linq-languageintegratequery\\exemplo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0EE6F3-13F5-469E-9947-D40908D51E56}|Exemplo1\\Exemplo1.csproj|solutionrelative:exemplo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{24F03046-998E-455B-B6CE-00889B76B9A9}|Exemplo3\\Exemplo3.csproj|c:\\tecnicas-programacaoii\\tecnicas\\linq-languageintegratequery\\exemplo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24F03046-998E-455B-B6CE-00889B76B9A9}|Exemplo3\\Exemplo3.csproj|solutionrelative:exemplo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CDF5403-771C-4A7B-B034-1BD4755D3BE5}|Exemplo2\\Exemplo2.csproj|c:\\tecnicas-programacaoii\\tecnicas\\linq-languageintegratequery\\exemplo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CDF5403-771C-4A7B-B034-1BD4755D3BE5}|Exemplo2\\Exemplo2.csproj|solutionrelative:exemplo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD0EE6F3-13F5-469E-9947-D40908D51E56}|Exemplo1\\Exemplo1.csproj|c:\\tecnicas-programacaoii\\tecnicas\\linq-languageintegratequery\\exemplo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD0EE6F3-13F5-469E-9947-D40908D51E56}|Exemplo1\\Exemplo1.csproj|solutionrelative:exemplo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\LINQ-LanguageIntegrateQuery\\Exemplo3\\Program.cs",
               "RelativeDocumentMoniker": "Exemplo3\\Program.cs",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\LINQ-LanguageIntegrateQuery\\Exemplo2\\Program.cs",
               "RelativeDocumentMoniker": "Exemplo2\\Program.cs",
@@ -51,18 +51,17 @@
               "RelativeToolTip": "Exemplo2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T11:12:39.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T11:12:39.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Tecnicas-programacaoII\\tecnicas\\LINQ-LanguageIntegrateQuery\\Exemplo1\\Program.cs",
               "RelativeDocumentMoniker": "Exemplo1\\Program.cs",
               "ToolTip": "C:\\Tecnicas-programacaoII\\tecnicas\\LINQ-LanguageIntegrateQuery\\Exemplo1\\Program.cs",
               "RelativeToolTip": "Exemplo1\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T11:12:07.852Z",
               "EditorCaption": ""
