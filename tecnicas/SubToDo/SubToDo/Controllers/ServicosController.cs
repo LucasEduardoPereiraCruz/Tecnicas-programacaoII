@@ -21,6 +21,15 @@ namespace SubToDo.Controllers
             var servicos = await _repository.BuscarPorValorAsync(valor); // chama o banco via repository 
             return Ok(servicos); // retorna HTTP - Lista de tarefas em JSON 
         }
+
+        [HttpGet] // GET PARA LISTAR TODOS OS SERVIÇOS 
+        public async Task<ActionResult<List<Servico>>> Get()
+        {
+            var servicos = await _repository.ObterServicosAsync();
+
+            return Ok(servicos);
+        }
+
         [HttpPost]
         public async Task<IActionResult> Post(Servico novoServico) // Criar tarefa 
         {
